@@ -1,0 +1,650 @@
+----------ARTIFACTS BY ORDER----------
+
+0	Cid's Buttercup	0.030	Damage	1	5.000	Cid's Buttercup	artifacts_buttercup
+1	Treebeast's Forest Gloves	2.566	Damage	5	92.095	Treebeast's Forest Gloves	artifacts_autumn_forest_gloves
+2	Cid's Cuirass	1.430	Click_Damage	2	24807.920	Cid's Cuirass	artifacts_adventurers_cuirass
+3	Cid's Bronze Ring	2.738	Click_Damage	3	1.584e6	Cid's Bronze Ring	artifacts_bronze_sigil_ring
+4	Cid's Wand	10.997	Click_Damage	0	6.058e10	Cid's Wand	artifacts_pagan_wand
+5	Brittany's Ruby Ring	3556.764	Damage	3	6.056e14	Brittany's Ruby Ring	artifacts_greater_ruby_ring
+6	Cid's Trousers	7.734	Click_Damage	4	6.242e17	Cid's Trousers	artifacts_adventurers_trousers
+7	Treebeast's Oak Staff	21735.970	Damage	0	3.135e21	Treebeast's Oak Staff	artifacts_autumn_gnarly_oak_staff
+8	Ivan's Training Gloves	13738.440	Damage	5	1.127e24	Ivan's Training Gloves	artifacts_winter_training_gloves
+9	Brittany's Sand Excavators	3.928e7	Damage	0	8.998e28	Brittany's Sand Excavators	artifacts_sand_excavators
+10	Treebeast's Weathered Thigh Guards	37685.430	Damage	4	3.475e32	Treebeast's Weathered Thigh Guards	artifacts_autumn_weathered_thigh_guards
+11	Betty Clicker's Gloves	6.508e7	Monster_Gold	5	4.594e35	Betty Clicker's Gloves	artifacts_wheys_gloves
+12	The Wandering Fisherman's Harpoon	1.258e11	Monster_Gold	0	1.347e40	The Wandering Fisherman's Harpoon	artifacts_harpoon
+13	Ivan's Trunks	4.193e7	Damage	4	1.640e43	Ivan's Trunks	artifacts_trunks_2
+14	Treebeast's Weathered Gear	19218.300	Damage	2	4.397e46	Treebeast's Weathered Gear	artifacts_autumn_weathered_gear
+15	The Wandering Fisherman's Carpenter's Ring	2.380e7	Monster_Gold	3	4.843e49	The Wandering Fisherman's Carpenter's Ring	artifacts_autumn_weathered_gear
+16	Cid's Monk Shoes	8.713	Click_Damage	6	1.140e54	Cid's Monk Shoes	artifacts_monk_shoes
+17	Brittany's Bikini Bottom	1.294e11	Damage	4	3.800e57	Brittany's Bikini Bottom	artifacts_bikini_bottom_8
+18	Betty Clicker's Wand of Whipping	4.313e14	Monster_Gold	0	7.840e60	Betty Clicker's Wand of Whipping	artifacts_wand_of_whipping
+19	The Wandering Fisherman's Training Shorts	2.263e14	Monster_Gold	4	9.180e64	The Wandering Fisherman's Training Shorts	artifacts_training_shorts
+20	The Masked Samurai's Flame Tongue	1.017e18	Damage	0	6.978e68	The Masked Samurai's Flame Tongue	artifacts_flame_tongue
+21	Treebeast's Weathered Helm	448.416	Damage	1	3.585e72	Treebeast's Weathered Helm	artifacts_autumn_weathered_helm
+22	Brittany's Bikini Top	2.385e8	Damage	2	3.279e75	Brittany's Bikini Top	artifacts_bikini_top_2
+23	The Great Forest Seer's Mud Golem Scepter	1.750e21	Damage	0	2.553e79	The Great Forest Seer's Mud Golem Scepter	artifacts_mud_golem_scepter
+24	Brittany's Kaffir Lily	8.479e5	Damage	1	4.195e83	Brittany's Kaffir Lily	artifacts_kaffir_lily
+25	The Great Forest Seer's Frog Ring	1.733e11	Damage	3	1.897e86	The Great Forest Seer's Frog Ring	artifacts_frog_ring
+26	The Wandering Fisherman's Breathy Cotton Shirt	3.724e11	Monster_Gold	2	2.042e90	The Wandering Fisherman's Breathy Cotton Shirt	artifacts_breathy_cotton_shirt
+27	The Wandering Fisherman's Earthy Headwrap	2.948e9	Monster_Gold	1	1.856e93	The Wandering Fisherman's Earthy Headwrap	artifacts_earthy_headwrap
+28	Treebeast's Weathered Boots	98502.470	Damage	6	7.992e97	Treebeast's Weathered Boots	artifacts_autumn_weathered_boots
+29	Betty Clicker's Eosopher Leggings	1.063e18	Monster_Gold	4	8.884e100	Betty Clicker's Eosopher Leggings	artifacts_eosopher_leggings
+30	Alexa's Peacekeepers	5.472e24	Critical_Damage	0	3.793e104	Alexa's Peacekeepers	artifacts_peacekeepers
+31	Brittany's Flipflops	4.801e8	Damage	6	1.466e108	Brittany's Flipflops	artifacts_flipflops_5
+32	Leon's Barbarian Vambraces	4.669e11	Click_Damage	5	7.366e111	Leon's Barbarian Vambraces	artifacts_barbarian_vambraces
+33	The Masked Samurai's Devout Robe	2.868e15	Damage	2	8.111e114	The Masked Samurai's Devout Robe	artifacts_devout_robe
+34	Betty Clicker's Chef Hat	1.030e14	Monster_Gold	1	6.903e119	Betty Clicker's Chef Hat	artifacts_chef_hat
+35	Leon's Barbarian Cuirass	6.769e18	Click_Damage	2	1.476e124	Leon's Barbarian Cuirass	artifacts_barbarian_cuirass
+36	The Wandering Fisherman's Flipflops	1.569e12	Monster_Gold	6	4.577e127	The Wandering Fisherman's Flipflops	artifacts_flipflops_1
+37	The Great Forest Seer's Weathered Gauntlets	6.491e15	Damage	5	3.581e131	The Great Forest Seer's Weathered Gauntlets	artifacts_weathered_gauntlets
+38	Natalia's Pagan Wand	9.274e28	Damage	0	4.510e135	Natalia's Pagan Wand	artifacts_pagan_wand
+39	Natalia's Breathy Arm Wraps	9.480e18	Damage	5	4.890e139	Natalia's Breathy Arm Wraps	artifacts_breathy_arm_wraps
+40	The Mask	1.497e18	Damage	1	2.170e143	The Mask	artifacts_orange_kabuki_mask
+41	Betty Clicker's Herbalist Mocassins	2.542e16	Monster_Gold	6	5.149e147	Betty Clicker's Herbalist Mocassins	artifacts_herbalist_mocassins
+42	The Great Forest Seer's Weathered Cuirass	3.052e22	Damage	2	1.387e151	The Great Forest Seer's Weathered Cuirass	artifacts_weathered_cuirass
+43	Mercedes' Soulripper	6.137e32	Damage	0	1.580e155	Mercedes' Soulripper	artifacts_soulripper
+44	Leon	5.996e21	Click_Damage	1	1.154e159	Leon	artifacts_lion_pup
+45	Mercedes' Onslaught Gauntlets	4.661e22	Damage	5	2.605e161	Mercedes' Onslaught Gauntlets	artifacts_onslaught_gauntlet_black
+46	The Masked Samurai's Leather Leggings	2.770e22	Damage	4	3.093e166	The Masked Samurai's Leather Leggings	artifacts_leather_leggings
+47	Leon's Barbarian Shoes	1.754e20	Click_Damage	6	3.096e170	Leon's Barbarian Shoes	artifacts_barbarian_shoes
+48	Bobby's Blade of Truth	1.141e37	Damage	0	8.074e174	Bobby's Blade of Truth	artifacts_blade_of_truth
+49	Mercedes' Obsidian Ring	1.577e16	Damage	3	1.740e178	Mercedes' Obsidian Ring	artifacts_obsidian_ring
+50	Broyle's Finalizer	2.595e40	Damage	0	4.240e182	Broyle's Finalizer	artifacts_finalizer
+51	The Great Forest Seer's Leafy Boots	7.423e23	Damage	6	4.321e186	The Great Forest Seer's Leafy Boots	artifacts_leafy_boots
+52	The Great Forest Seer's Mud Golem Cap	3.436e26	Damage	1	1.351e191	The Great Forest Seer's Mud Golem Cap	artifacts_mud_golem_cap
+53	Leon's Barbarian Bottoms	3.405e26	Click_Damage	4	4.192e195	Leon's Barbarian Bottoms	artifacts_barbarian_bottoms
+54	Sir George II's Crystal Edge	1.453e44	Damage	0	1.643e199	Sir George II's Crystal Edge	artifacts_crystal_edge
+55	Bobby's Heavy Gauntlets	1.077e27	Damage	5	3.233e203	Bobby's Heavy Gauntlets	artifacts_heavy_gauntlets
+56	Bobby's Heavy Helm	2.022e30	Damage	1	1.382e207	Bobby's Heavy Helm	artifacts_heavy_helm
+57	The Great Forest Seer's Weathered Thigh Guards	5.812e30	Damage	4	4.766e211	The Great Forest Seer's Weathered Thigh Guards	artifacts_weathered_thigh_gaurds
+58	Broyle's Ifrit's Cowl	4.987e33	Damage	1	1.023e216	Broyle's Ifrit's Cowl	artifacts_ifrits_cowl
+59	King Midas' Resin Sword	1.857e48	Gold_Received	0	4.070e219	King Midas' Resin Sword	artifacts_resin_sword
+60	Alexa's Black Focus Robe	5.533e26	Critical_Damage	2	7.561e222	Alexa's Black Focus Robe	artifacts_black_focus_robe
+61	Referi Jerator's Ice Fists	8.268e51	Damage	0	5.561e227	Referi Jerator's Ice Fists	artifacts_ice_fists
+62	Broyle's Ifrit's Gloves	5.905e30	Damage	5	1.724e231	Broyle's Ifrit's Gloves	artifacts_ifrits_gloves
+63	Treebeast's Autumn Wings	53.928	Damage	7	1.864e235	Treebeast's Autumn Wings	artifacts_leafy_autumn_wings
+64	Natalia's Breathy Cotton Shirt	5.998e30	Damage	2	1.978e239	Natalia's Breathy Cotton Shirt	artifacts_breathy_cotton_shirt
+65	Sir George II's Malachite Gloves	2.679e34	Damage	5	1.521e244	Sir George II's Malachite Gloves	artifacts_malachite_gloves
+66	Abaddon's Scythe	1.998e56	Damage	0	1.448e248	Abaddon's Scythe	artifacts_scythe
+67	King Midas' Paladin Boots	1.110e38	Gold_Received	5	3.551e252	King Midas' Paladin Boots	artifacts_paladin_boots
+68	Ma Zhu's Peacekeepers	6.195e59	Damage	0	2.816e256	Ma Zhu's Peacekeepers	artifacts_peacekeepers
+69	Alexa's Black Focus Pants	1.189e35	Critical_Damage	4	1.759e260	Alexa's Black Focus Pants	artifacts_black_focus_pants
+70	Amenhotep's Elegant Glaive	2.235e63	Damage	0	2.796e263	Amenhotep's Elegant Glaive	artifacts_black_focus_pants
+71	Mercedes' Banded Iron Leggings	3.971e38	Damage	4	9.906e267	Mercedes' Banded Iron Leggings	artifacts_banded_iron_leggings
+72	Alexa's Path Shoes	6.000e28	Critical_Damage	6	2.031e271	Alexa's Path Shoes	artifacts_path_shoes
+73	Bobby's Gun Shell	2.141e6	Damage	7	1.796e276	Bobby's Gun Shell	artifacts_gun_shell
+74	Bobby's Onslaught Deliverance	1.458e42	Damage	4	2.581e280	Bobby's Onslaught Deliverance	artifacts_onslaught_deliverance
+75	Abaddon's Witch Doctor Gloves	1.130e42	Damage	5	6.180e282	Abaddon's Witch Doctor Gloves	artifacts_witch_doctor_gloves
+76	Bobby's Iron Ring	2.533e21	Damage	3	4.627e288	Bobby's Iron Ring	artifacts_iron_ring
+77	Broyle's Zealot's Girdle	1.304e46	Damage	4	5.311e292	Broyle's Zealot's Girdle	artifacts_zealots_girdle
+78	Beastlord's Barbarian Vambraces	1.894e46	Click_Damage	5	2.063e297	Beastlord's Barbarian Vambraces	artifacts_barbarian_vambraces
+79	Sir George II's Malachite Leggings	8.539e49	Damage	4	2.037e300	Sir George II's Malachite Leggings	artifacts_malachite_leggings
+80	Athena's Zealot's Gloves	2.378e50	Damage	5	1.364e306	Athena's Zealot's Gloves	artifacts_zealots_gloves
+81	Beastlord's Golden Cult Staff	1.006e68	Click_Damage	0	4.558e309	Beastlord's Golden Cult Staff	artifacts_golden_cult_staff
+82	Athena's Leafy Enchanted Wings	6.069e10	Damage	7	1.609e314	Athena's Leafy Enchanted Wings	artifacts_leafy_enchanted_wings
+83	Grant's Banded Iron Gauntlets	1.546e54	Damage	5	5.566e318	Grant's Banded Iron Gauntlets	artifacts_banded_iron_gauntlets
+84	Sir George II's Malachite Helm	1.300e39	Damage	1	9.022e322	Sir George II's Malachite Helm	artifacts_malachite_helm
+85	Frostleaf's Winter Entwined Fingers	1.073e58	Damage	5	5.994e327	Frostleaf's Winter Entwined Fingers	artifacts_winter_entwined_fingers
+86	Aphrodite's Filligree Papillion	8.961e14	Monster_Gold	7	8.744e331	Aphrodite's Filligree Papillion	artifacts_filligree_papillion
+87	King Midas' Haelig Pants	2.099e54	Gold_Received	4	3.192e336	King Midas' Haelig Pants	artifacts_haelig_pants
+88	Mercedes' Onslaught Defender	5.121e35	Damage	2	2.090e340	Mercedes' Onslaught Defender	artifacts_onslaught_defender_black
+89	Athena's Amethyst Wand	2.743e72	Damage	0	4.587e344	Athena's Amethyst Wand	artifacts_amethyst_wand
+90	King Midas' Helm of the Victor	3.476e43	Gold_Received	1	4.201e349	King Midas' Helm of the Victor	artifacts_helm_of_the_victor
+91	Natalia's Flipflops	1.771e33	Damage	6	3.207e353	Natalia's Flipflops	artifacts_flipflops_1
+92	Referi Jerator's Sky Steel Leggings	2.601e58	Damage	4	6.424e356	Referi Jerator's Sky Steel Leggings	artifacts_sky_steel_leggings
+93	Aphrodite's Encircling Staff	3.419e76	Monster_Gold	0	1.670e361	Aphrodite's Encircling Staff	artifacts_encircling_staff
+94	Bobby's Gilded Ebony Plates	6.743e39	Damage	2	1.048e366	Bobby's Gilded Ebony Plates	artifacts_gilded_ebony_plates
+95	King Midas' Topaz Ring	1.716e26	Gold_Received	3	2.233e370	King Midas' Topaz Ring	artifacts_topaz_ring
+96	Referi Jerator's Blockhead	4.141e47	Damage	1	7.298e373	Referi Jerator's Blockhead	artifacts_blockhead
+97	Shinatobe's Purified Tessen	3.554e80	Damage	0	4.578e378	Shinatobe's Purified Tessen	artifacts_blockhead
+98	Broyle's Ifrit's Cowl	7.558e43	Damage	2	2.823e383	Broyle's Ifrit's Cowl	artifacts_ifrits_coat
+99	Shinatobe's Ritual Drum	5.297e19	Damage	7	4.165e387	Shinatobe's Ritual Drum	artifacts_ritual_drum
+100	Abaddon's Witch Doctor Pants	3.583e62	Damage	4	8.249e391	Abaddon's Witch Doctor Pants	artifacts_witch_doctor_pants
+101	Mercedes' Onslaught Boots	5.505e37	Damage	6	3.047e395	Mercedes' Onslaught Boots	artifacts_onslaught_boots_black
+102	Referi Jerator's Opal Ring	2.725e30	Damage	3	2.086e400	Referi Jerator's Opal Ring	artifacts_opal_ring
+103	Ma Zhu's Pristine Prayer Pants	1.891e66	Damage	4	2.860e404	Ma Zhu's Pristine Prayer Pants	artifacts_pristine_prayer_pants
+104	Abaddon's Skull Mask	1.073e52	Damage	1	1.513e408	Abaddon's Skull Mask	artifacts_skull_mask
+105	Sir George II's Malachite Cuirass	2.010e48	Damage	2	1.065e413	Sir George II's Malachite Cuirass	artifacts_malachite_cuirass
+106	Abaddon's Skull Ring	2.262e34	Damage	3	2.379e417	Abaddon's Skull Ring	artifacts_skull_ring
+107	King Midas' Holy Wrath Chestpiece	1.183e52	Gold_Received	2	3.906e420	King Midas' Holy Wrath Chestpiece	artifacts_holy_wrath_chestpiece
+108	Bobby's Banded Iron Greaves	1.405e42	Damage	6	5.412e425	Bobby's Banded Iron Greaves	artifacts_banded_iron_greaves
+109	Amenhotep's Autumn Helm	2.227e56	Damage	1	4.180e429	Amenhotep's Autumn Helm	artifacts_autumn_helm
+110	Amenhotep's Paladin Leggings	8.761e70	Damage	4	1.641e434	Amenhotep's Paladin Leggings	artifacts_paladin_leggings
+111	Referi Jerator's Sky Steel Cuirass	1.523e56	Damage	2	1.688e439	Referi Jerator's Sky Steel Cuirass	artifacts_sky_steel_cuirass
+112	Broyle's Ifrit's Boots	2.445e46	Damage	6	3.697e443	Broyle's Ifrit's Boots	artifacts_ifrits_boots
+113	Beastlord's Barbarian Headress	2.329e60	Click_Damage	1	2.276e447	Beastlord's Barbarian Headress	artifacts_barbarian_headress
+114	Grant's Ruby Cleaver	1.799e85	Damage	0	1.180e452	Grant's Ruby Cleaver	artifacts_ruby_cleaver
+115	Abaddon's Witch Doctor Armor	1.104e60	Damage	2	2.330e455	Abaddon's Witch Doctor Armor	artifacts_witch_doctor_armor
+116	Beastlord's Barbarian Bottoms	1.654e75	Click_Damage	4	3.118e459	Beastlord's Barbarian Bottoms	artifacts_barbarian_bottoms
+117	Ma Zhu's Pristine Prayer Robe	1.191e64	Damage	2	1.604e464	Ma Zhu's Pristine Prayer Robe	artifacts_pristine_prayer_robe
+118	Gilded Betty Clicker's Fat Bat Backpack	6.527e24	Monster_Gold	7	1.578e469	Gilded Betty Clicker's Fat Bat Backpack	artifacts_fat_bat_backpack
+119	Athena's Zealot's Girdle	3.410e79	Damage	4	3.546e473	Athena's Zealot's Girdle	artifacts_zealots_girdle
+120	Sir George II's Malachite Boots	1.337e51	Damage	6	1.802e478	Sir George II's Malachite Boots	artifacts_malachite_boots
+121	Aphrodite's Exalted Tights	5.961e83	Monster_Gold	4	8.937e482	Aphrodite's Exalted Tights	artifacts_exalted_tights
+122	Amenhotep's Spiritual Ring	2.831e39	Damage	3	7.112e487	Amenhotep's Spiritual Ring	artifacts_spiritual_ring
+123	Aphrodite's Exaltation Hat	1.087e65	Monster_Gold	1	8.996e491	Aphrodite's Exaltation Hat	artifacts_exaltation_hat
+124	Referi Jerator's Plain Wizard Boots	3.700e55	Damage	6	6.465e496	Referi Jerator's Plain Wizard Boots	artifacts_plain_wizard_boots
+125	Dread Knight's Gloves	2.058e63	Weapon_Damage	5	1.369e501	Dread Knight's Gloves	artifacts_ssr_black_gloves
+126	Shinatobe's Cowl	1.937e69	Damage	1	8.053e505	Shinatobe's Cowl	artifacts_shan_daille_cowl
+127	Abaddon's Witch Doctor Slippers	4.124e59	Damage	6	1.156e509	Abaddon's Witch Doctor Slippers	artifacts_witch_doctor_slippers
+128	Frostleaf's Winter Mousekawitch Wand	5.252e89	Damage	0	8.918e513	Frostleaf's Winter Mousekawitch Wand	artifacts_winter_mousekawitch_wand
+129	Amenhotep's Holy Wrath Chestpiece	1.443e69	Damage	2	6.563e518	Amenhotep's Holy Wrath Chestpiece	artifacts_holy_wrath_chestpiece
+130	Dread Knight's Weapon	2.969e93	Weapon_Damage	0	2.135e523	Dread Knight's Weapon	artifacts_ssr_black
+131	Grant's Dark War Horse Helm	5.203e73	Damage	1	3.838e527	Grant's Dark War Horse Helm	artifacts_war_horse_helm_dark
+132	Atlas' Weapon	1.685e97	Damage	0	2.739e532	Atlas' Weapon	artifacts_ssr_blue
+133	Shinatobe's Awakening Shinguards	3.631e88	Damage	4	1.105e536	Shinatobe's Awakening Shinguards	artifacts_awakening_shinguards
+134	Beastlord's Barbarian Cuirass	2.622e73	Click_Damage	2	5.737e539	Beastlord's Barbarian Cuirass	artifacts_barbarian_cuirass
+135	Gilded Treebeast's Tribal Mask	1.524e78	Damage	1	1.269e545	Gilded Treebeast's Tribal Mask	artifacts_tribal_mask
+136	Athena's Zealot's Tunic	5.110e77	Damage	2	6.683e549	Athena's Zealot's Tunic	artifacts_zealots_tunic
+137	Grant's Banded Iron Leggings	1.283e93	Damage	4	4.729e554	Grant's Banded Iron Leggings	artifacts_banded_iron_leggings
+138	Shinatobe's Scholar Robes	4.749e81	Damage	2	4.897e558	Shinatobe's Scholar Robes	artifacts_scholar_robes
+139	Ma Zhu's Path Shoes	4.644e64	Damage	6	1.355e563	Ma Zhu's Path Shoes	artifacts_path_shoes
+140	Atlas' Gloves	1.105e68	Damage	5	1.242e568	Atlas' Gloves	artifacts_ssr_blue_gloves
+141	Grant's Banded Iron Cuirass	3.262e85	Damage	2	3.927e571	Grant's Banded Iron Cuirass	artifacts_banded_iron_cuirass
+142	Terra's Gloves	1.688e72	Damage	5	2.360e576	Terra's Gloves	artifacts_ssr_turquoise_gloves
+143	Frostleaf's Winter Entwined Loincloth	4.860e97	Damage	4	1.019e581	Frostleaf's Winter Entwined Loincloth	artifacts_winter_entwined_loincloth
+144	Terra's Weapon	4.141e101	Damage	0	2.414e585	Terra's Weapon	artifacts_ssr_green
+145	Dread Knight's Pants	3.949e101	Weapon_Damage	4	1.321e589	Dread Knight's Pants	artifacts_ssr_black_pants
+146	Frostleaf's Winter Sacred Liana	3.685e89	Damage	2	4.190e593	Frostleaf's Winter Sacred Liana	artifacts_winter_sacred_liana
+147	Phthalo's Gloves	3.363e76	Damage	5	1.796e597	Phthalo's Gloves	artifacts_ssr_green_gloves
+148	Athena's Zealot's Boots	1.732e69	Damage	6	5.854e601	Athena's Zealot's Boots	artifacts_ssr_green_gloves
+149	Atlas' Pants	7.253e105	Damage	4	1.525e606	Atlas' Pants	artifacts_ssr_blue_pants
+150	Orntchya's Gloves	8.207e80	Damage	5	1.247e611	Orntchya's Gloves	artifacts_ssr_orange_gloves
+151	Terra's Pants	1.128e110	Damage	4	1.061e615	Terra's Pants	artifacts_ssr_turquoise_pants
+152	Phthalo's Weapon	1.158e106	Damage	0	9.447e619	Phthalo's Weapon	artifacts_chakra_chakrams
+153	Lilin's Gloves	9.266e84	Damage	5	1.116e624	Lilin's Gloves	artifacts_ssr_pink_gloves
+154	Gilded Brittany's Violet	1.405e83	Damage	1	5.575e628	Gilded Brittany's Violet	artifacts_violet
+155	Dread Knight's Chest	9.375e93	Weapon_Damage	2	8.474e632	Dread Knight's Chest	artifacts_ssr_black_chest
+156	Phthalo's Pants	4.992e114	Damage	4	1.662e637	Phthalo's Pants	artifacts_ssr_green_pants
+157	Aphrodite's Exalted Slippers	1.224e74	Monster_Gold	6	2.708e642	Aphrodite's Exalted Slippers	artifacts_exalted_slippers
+158	Cadmia's Gloves	3.246e89	Damage	5	1.153e647	Cadmia's Gloves	artifacts_ssr_red_gloves
+159	Atlas' Chest	2.158e98	Damage	2	1.328e650	Atlas' Chest	artifacts_ssr_blue_chest
+160	Alabaster's Gloves	2.777e93	Damage	5	1.413e656	Alabaster's Gloves	artifacts_ssr_white_gloves
+161	Orntchya's Pants	1.640e119	Damage	4	1.044e660	Orntchya's Pants	artifacts_ssr_orange_pants
+162	Orntchya's Weapon	1.587e111	Damage	0	9.267e664	Orntchya's Weapon	artifacts_ssr_orange
+163	The Gilded Forest Seer's Leafy Wings	1.527e30	Damage	7	2.377e669	The Gilded Forest Seer's Leafy Wings	artifacts_leafy_wings
+164	Terra's Chest	4.359e102	Damage	2	8.501e673	Terra's Chest	artifacts_ssr_turquoise_chest
+165	Lilin's Weapon	5.157e115	Damage	0	8.310e678	Lilin's Weapon	artifacts_ssr_pink
+166	Gilded Ma Zhu's Anaxios Robe	8.966e33	Damage	7	6.988e682	Gilded Ma Zhu's Anaxios Robe	artifacts_anaxios_robe
+167	Lilin's Pants	2.704e123	Damage	4	5.474e686	Lilin's Pants	artifacts_ssr_pink_pants
+168	Grant's Banded Iron Greaves	1.229e79	Damage	6	2.626e691	Grant's Banded Iron Greaves	artifacts_banded_iron_greaves
+169	Cadmia's Pants	3.498e127	Damage	4	2.199e696	Cadmia's Pants	artifacts_ssr_red_pants
+170	Athena's Souls of the Fallen	1.864e45	Damage	3	8.770e700	Athena's Souls of the Fallen	artifacts_souls_of_the_fallen
+171	Cadmia's Weapon	3.678e120	Damage	0	1.083e706	Cadmia's Weapon	artifacts_ssr_red
+172	Phthalo's Chest	4.332e107	Damage	2	8.820e710	Phthalo's Chest	artifacts_ssr_green_chest
+173	Aphrodite's Heartful Ring	5.182e49	Monster_Gold	3	5.878e715	Aphrodite's Heartful Ring	artifacts_heartful_ring
+174	Alabaster's Pants	9.996e131	Damage	4	1.093e720	Alabaster's Pants	artifacts_ssr_white_pants
+175	Frostleaf's Winter Entwined Feet	6.014e83	Damage	6	4.718e724	Frostleaf's Winter Entwined Feet	artifacts_winter_entwined_feet
+176	Dread Knight's Ring	8.271e53	Weapon_Damage	3	2.037e729	Dread Knight's Ring	artifacts_black_wave_rider_ring
+177	The Gilded Fisherman's Cotton Bandana	3.050e88	Monster_Gold	1	3.198e733	The Gilded Fisherman's Cotton Bandana	artifacts_cotton_bandana
+178	Dread Knight's Boots	1.094e88	Weapon_Damage	6	4.022e738	Dread Knight's Boots	artifacts_ssr_black_boots
+179	Alabaster's Weapon	2.595e125	Damage	0	1.097e743	Alabaster's Weapon	artifacts_ssr_white
+180	Atlas' Ring	3.811e58	Damage	3	1.873e748	Atlas' Ring	artifacts_wave_rider_ring
+181	The Gilded Mask	6.179e92	Damage	1	6.403e752	The Gilded Mask	artifacts_blue_kabuki_mask
+182	Terra's Ring	1.488e63	Damage	3	3.291e757	Terra's Ring	artifacts_ring_of_insight
+183	Orntchya's Chest	3.826e112	Damage	2	3.223e762	Orntchya's Chest	artifacts_ssr_orange_chest
+184	Astraea's Gloves	3.352e98	Damage	5	8.871e766	Astraea's Gloves	artifacts_ssr_yellow_gloves
+185	The Gilded Forest Seer's Woodsman Hat	7.925e96	Damage	1	2.458e771	The Gilded Forest Seer's Woodsman Hat	artifacts_woodsman_hat
+186	Astraea's Weapon	1.393e130	Damage	0	2.603e774	Astraea's Weapon	artifacts_ssr_yellow
+187	Atlas' Boots	1.264e93	Damage	6	5.354e780	Atlas' Boots	artifacts_ssr_blue_boots
+188	Gilded Natalia's Frosty Hat	9.402e100	Damage	1	3.222e785	Gilded Natalia's Frosty Hat	artifacts_frosty_hat
+189	Terra's Boots	1.947e97	Damage	6	1.447e789	Terra's Boots	artifacts_ssr_turquoise_boots
+190	Gilded Treebeast's Autumn's Fall	6.391e134	Damage	0	2.671e794	Gilded Treebeast's Autumn's Fall	artifacts_autumns_fall
+191	Lilin's Chest	1.653e117	Damage	2	1.519e799	Lilin's Chest	artifacts_ssr_pink_chest
+192	Gilded Mercedes' Yellow Shades	3.531e105	Damage	1	1.454e803	Gilded Mercedes' Yellow Shades	artifacts_shades_yellow
+193	Phthalo's Boots	5.569e101	Damage	6	9.934e807	Phthalo's Boots	artifacts_ssr_green_boots
+194	Phthalo's Ring	8.418e67	Damage	3	4.882e812	Phthalo's Ring	artifacts_green_wave_rider_ring
+195	Gilded Treebeast's Autumn Gauntlet	1.054e103	Damage	5	3.274e816	Gilded Treebeast's Autumn Gauntlet	artifacts_autumn_gauntlet
+196	Gilded Bobby's Furlined Steel Helmet	6.002e109	Damage	1	1.881e821	Gilded Bobby's Furlined Steel Helmet	artifacts_furlined_steel_helmet
+197	Astraea's Pants	1.765e137	Damage	4	3.692e825	Astraea's Pants	artifacts_ssr_yellow_pants
+198	Orntchya's Ring	2.352e72	Damage	3	5.688e830	Orntchya's Ring	artifacts_orange_wave_rider_ring
+199	Gilded Treebeast's Autumn Leggings	2.318e141	Damage	4	1.500e835	Gilded Treebeast's Autumn Leggings	artifacts_autumn_leggings
+200	Orntchya's Boots	4.030e106	Damage	6	1.105e840	Orntchya's Boots	artifacts_ssr_orange_boots
+201	Gilded Ivan's Bloop Fist	1.169e140	Damage	0	8.471e844	Gilded Ivan's Bloop Fist	artifacts_bloop_fist
+202	Cadmia's Chest	8.928e121	Damage	2	7.894e849	Cadmia's Chest	artifacts_ssr_red_chest
+203	Lilin's Boots	2.224e111	Damage	6	1.664e854	Lilin's Boots	artifacts_ssr_pink_boots
+204	Gilded Broyle's Adeptus Hat	5.419e114	Damage	1	3.555e859	Gilded Broyle's Adeptus Hat	artifacts_adeptus_hat
+205	The Gilded Forest Seer's Forester Magic Sleeves	7.926e107	Damage	5	1.232e864	The Gilded Forest Seer's Forester Magic Sleeves	artifacts_forester_magic_sleeves
+206	Gilded George's Gauntlet 4 Head	4.349e118	Damage	1	9.971e868	Gilded George's Gauntlet 4 Head	artifacts_gauntlet_4_head
+207	Alabaster's Chest	1.265e126	Damage	2	4.604e872	Alabaster's Chest	artifacts_ssr_white_chest
+208	Cadmia's Boots	3.291e115	Damage	6	1.009e877	Cadmia's Boots	artifacts_ssr_red_boots
+209	Gilded Midas' Stoic mask	1.800e123	Gold_Received	1	3.258e880	Gilded Midas' Stoic mask	artifacts_stoic_mask
+210	Gilded Natalia's Frosty Gloves	6.224e112	Damage	5	4.051e886	Gilded Natalia's Frosty Gloves	artifacts_frosty_gloves
+211	Gilded Brittany's Shellsoul	1.435e145	Damage	0	4.537e891	Gilded Brittany's Shellsoul	artifacts_shellsoul
+212	Alabaster's Boots	1.222e120	Damage	6	6.658e895	Alabaster's Boots	artifacts_ssr_white_boots
+213	The Gilded Samurai's Blue Cutter	1.146e149	Damage	0	1.241e900	The Gilded Samurai's Blue Cutter	artifacts_blue_cutter
+214	Astraea's Boots	1.986e124	Damage	6	1.681e905	Astraea's Boots	artifacts_ssr_yellow_boots
+215	Lilin's Ring	6.421e77	Damage	3	1.319e910	Lilin's Ring	artifacts_broken_promises
+216	Gilded Abaddon's Skull-Mask	3.478e127	Damage	1	9.530e913	Gilded Abaddon's Skull-Mask	artifacts_skull_mask
+217	Gilded Ivan's Cutter Shorts	6.496e146	Damage	4	1.210e919	Gilded Ivan's Cutter Shorts	artifacts_cutter_shorts
+218	Astraea's Chest	1.186e131	Damage	2	1.575e924	Astraea's Chest	artifacts_ssr_yellow_chest
+219	Cadmia's Ring	8.413e81	Damage	3	5.054e927	Cadmia's Ring	artifacts_red_wave_rider_ring
+220	Gilded Treebeast's Autumn Boots	9.777e128	Damage	6	4.272e932	Gilded Treebeast's Autumn Boots	artifacts_autumn_boots
+221	Gilded Treebeast's Autumn Chest	1.872e135	Damage	2	9.614e937	Gilded Treebeast's Autumn Chest	artifacts_autumn_chest
+222	The Gilded Fisherman's Herbalist Britches	3.027e151	Monster_Gold	4	2.299e941	The Gilded Fisherman's Herbalist Britches	artifacts_herbalist_britches
+223	Gilded Ma Zhu's Sacred Flame Mercenary Hat	4.235e132	Damage	1	2.184e947	Gilded Ma Zhu's Sacred Flame Mercenary Hat	artifacts_sacred_flame_mercenary_hat
+224	Gilded Bobby's Reinforced Steel Gauntlet	1.116e118	Damage	5	3.800e951	Gilded Bobby's Reinforced Steel Gauntlet	artifacts_reinforced_steel_gauntlet
+225	Gilded Leon's Obsidian Jaguar	1.252e154	Click_Damage	0	7.449e956	Gilded Leon's Obsidian Jaguar	artifacts_obsidian_jaguar
+226	Gilded Brittany's Top	1.270e140	Damage	2	4.610e961	Gilded Brittany's Top	artifacts_shan_daille_top
+227	Gilded Amenhotep's Mummy Wrap	9.597e136	Damage	1	3.052e966	Gilded Amenhotep's Mummy Wrap	artifacts_mummy_wrap
+228	Gilded Betty Clicker's Shoes of the Devaout Path	3.896e133	Monster_Gold	6	1.188e971	Gilded Betty Clicker's Shoes of the Devaout Path	artifacts_shoes_of_the_devout_path
+229	Gilded Grant's Gauntlet 4 Head	7.723e140	Damage	1	3.925e975	Gilded Grant's Gauntlet 4 Head	artifacts_gauntlet_4_head
+230	Gilded Betty Clicker's Winter Robe	3.875e144	Monster_Gold	2	5.224e979	Gilded Betty Clicker's Winter Robe	artifacts_winter_robe
+231	Gilded Broyle's Adeptus Gloves	3.234e122	Damage	5	2.529e984	Gilded Broyle's Adeptus Gloves	artifacts_adeptus_gloves
+232	The Gilded Forest Seer's Vinewood Rod	5.498e158	Damage	0	1.330e988	The Gilded Forest Seer's Vinewood Rod	artifacts_vinewood_rod
+233	The Gilded Samurai's Focus Robe	1.141e149	Damage	2	2.677e993	The Gilded Samurai's Focus Robe	artifacts_focus_robe
+234	Gilded Betty Clicker's Prayer Pants	2.160e156	Monster_Gold	4	3.260e998	Gilded Betty Clicker's Prayer Pants	artifacts_prayer_pants
+235	Gilded Frostleaf's Iced Leafy Wings	3.925e39	Damage	7	8.529e1002	Gilded Frostleaf's Iced Leafy Wings	artifacts_leafy_wings_iced
+236	Gilded Alexa's Dual Enchanted Cutlass	1.890e163	Critical_Damage	0	1.737e1007	Gilded Alexa's Dual Enchanted Cutlass	artifacts_dual_enchanted_cutlass
+237	The Gilded Forest Seer's Leafy Poncho	5.499e153	Damage	2	2.671e1012	The Gilded Forest Seer's Leafy Poncho	artifacts_leafy_poncho
+238	Gilded George's Gauntlet 4 Gloves	2.483e127	Damage	5	2.002e1017	Gilded George's Gauntlet 4 Gloves	artifacts_gauntlet_4_gloves
+239	Gilded Alexa's Meadow Top	3.266e158	Critical_Damage	2	1.209e1022	Gilded Alexa's Meadow Top	artifacts_meadow_top
+240	The Gilded Samurai's Focus Pants	5.667e160	Damage	4	1.578e1027	The Gilded Samurai's Focus Pants	artifacts_focus_pants
+241	Gilded Natalia's Ice Mace	8.704e167	Damage	0	2.971e1030	Gilded Natalia's Ice Mace	artifacts_ice_mace
+242	The Gilded Samurai's Path Shoes	2.357e138	Damage	6	2.479e1036	The Gilded Samurai's Path Shoes	artifacts_path_shoes
+243	The Gilded Forest Seer's Leafy Pants	2.634e165	Damage	4	9.456e1040	The Gilded Forest Seer's Leafy Pants	artifacts_leafy_pants
+244	Gilded Frostleaf's Iced Leafy Monk Hat	8.927e145	Damage	1	9.067e1044	Gilded Frostleaf's Iced Leafy Monk Hat	artifacts_leafy_monk_hat_iced
+245	Gilded Atlas' Astral Drum	3.758e44	Damage	7	1.054e1051	Gilded Atlas' Astral Drum	artifacts_astral_drum
+246	Gilded Natalia's Frosty Robe	9.108e162	Damage	2	2.389e1054	Gilded Natalia's Frosty Robe	artifacts_frosty_robe
+247	Gilded Mercedes' Face Puncture	6.388e172	Damage	0	2.485e1059	Gilded Mercedes' Face Puncture	artifacts_frosty_robe
+248	Gilded Midas' Paladin Gauntlets	5.446e132	Gold_Received	5	1.324e1065	Gilded Midas' Paladin Gauntlets	artifacts_paladin_gauntlets
+249	Gilded Alexa's Goldenrod Pants	5.567e169	Critical_Damage	4	2.343e1069	Gilded Alexa's Goldenrod Pants	artifacts_goldenrod_pants
+250	Gilded Bobby's Scrap Metal Cuirass	1.434e167	Damage	2	7.302e1073	Gilded Bobby's Scrap Metal Cuirass	artifacts_scrap_metal_cuirass
+251	Gilded Dread Knight's Helmet	2.208e150	Weapon_Damage	1	9.220e1077	Gilded Dread Knight's Helmet	artifacts_ssr_black_helmet
+252	Gilded Broyle's Adeptus Robe	1.664e171	Damage	2	1.419e1082	Gilded Broyle's Adeptus Robe	artifacts_adeptus_robe
+253	Gilded Bobby's Obsidian Decapitator	3.979e177	Damage	0	2.276e1087	Gilded Bobby's Obsidian Decapitator	artifacts_obsidian_decapitator
+254	The Gilded Forest Seer's Leafy Slippers	3.868e143	Damage	6	1.760e1092	The Gilded Forest Seer's Leafy Slippers	artifacts_leafy_slippers
+255	Gilded Natalia's Frosty Leggings	1.584e174	Damage	4	1.786e1097	Gilded Natalia's Frosty Leggings	artifacts_frosty_leggings
+256	Gilded George's Cutterpillow	9.150e181	Damage	0	8.211e1101	Gilded George's Cutterpillow	artifacts_cutterpillow
+257	Gilded Mercedes' Paladin Leggings	1.180e178	Damage	4	3.836e1105	Gilded Mercedes' Paladin Leggings	artifacts_paladin_leggings
+258	Gilded George's Gauntlet 4 Chest	3.957e175	Damage	2	1.364e1110	Gilded George's Gauntlet 4 Chest	artifacts_gauntlet_4_chest
+259	Gilded Atlas' Helmet	4.941e154	Damage	1	1.995e1114	Gilded Atlas' Helmet	artifacts_ssr_blue_helmet
+260	Gilded Terra's Insidious Drum	3.801e49	Damage	7	5.856e1118	Gilded Terra's Insidious Drum	artifacts_insidious_drum
+261	Gilded Midas' Good Heavens	6.230e186	Gold_Received	0	3.272e1123	Gilded Midas' Good Heavens	artifacts_good_heavens
+262	Gilded Terra's Helmet	9.055e158	Damage	1	3.176e1128	Gilded Terra's Helmet	artifacts_ssr_turquoise_helmet
+263	Gilded Alexa's Herbalist Mocassins	6.761e148	Critical_Damage	6	5.469e1133	Gilded Alexa's Herbalist Mocassins	artifacts_herbalist_mocassins
+264	Gilded Bobby's Banded Iron Leggings	9.141e182	Damage	4	1.098e1138	Gilded Bobby's Banded Iron Leggings	artifacts_banded_iron_leggings
+265	Gilded Midas' Paladin Armor	1.918e180	Gold_Received	2	6.612e1142	Gilded Midas' Paladin Armor	artifacts_paladin_armor
+266	Gilded Phthalo's Banana Leaf Wing	1.354e54	Damage	7	5.755e1147	Gilded Phthalo's Banana Leaf Wing	artifacts_banana_leaf_wing
+267	Gilded Natalia's Frosty Boots	2.958e153	Damage	6	7.316e1151	Gilded Natalia's Frosty Boots	artifacts_frosty_boots
+268	Gilded Phthalo's Helmet	2.905e163	Damage	1	1.697e1157	Gilded Phthalo's Helmet	artifacts_ssr_green_helmet
+269	Gilded Broyle's Adeptus Leggings	3.805e187	Damage	4	5.034e1160	Gilded Broyle's Adeptus Leggings	artifacts_adeptus_leggings
+270	Astraea's Ring	2.253e87	Damage	3	6.695e1165	Astraea's Ring	artifacts_yellow_wave_rider_ring
+271	Gilded Banana's Helmet	1.283e168	Damage	1	6.752e1170	Gilded Banana's Helmet	artifacts_ssr_orange_helmet
+272	Gilded Jerator's Avalanche	1.031e192	Damage	0	7.472e1175	Gilded Jerator's Avalanche	artifacts_avalanche
+273	Gilded George's Gauntlet 4 Pants	1.204e192	Damage	4	2.223e1180	Gilded George's Gauntlet 4 Pants	artifacts_gauntlet_4_pants
+274	Gilded Mercedes' Exalted Slippers	2.049e158	Damage	6	1.484e1185	Gilded Mercedes' Exalted Slippers	artifacts_exalted_slippers
+275	Gilded Lilin's Helmet	2.366e172	Damage	1	8.922e1189	Gilded Lilin's Helmet	artifacts_ssr_pink_helmet
+276	Gilded Abaddon's Doom Cleave	2.098e196	Damage	0	5.483e1194	Gilded Abaddon's Doom Cleave	artifacts_doom_cleave
+277	Gilded Cadmia's Helmet	4.982e176	Damage	1	4.070e1199	Gilded Cadmia's Helmet	artifacts_ssr_red_helmet
+278	Gilded Astraea's Spiritual Drum	2.833e59	Damage	7	8.465e1203	Gilded Astraea's Spiritual Drum	artifacts_spiritual_drum
+279	Gilded Ma Zhu's Ebony Gloves	2.395e138	Damage	5	1.023e1209	Gilded Ma Zhu's Ebony Gloves	artifacts_ebony_gloves
+280	Gilded Ma Zhu's Ebony Plated Leggings	8.046e196	Damage	4	2.405e1213	Gilded Ma Zhu's Ebony Plated Leggings	artifacts_ebony_plated_leggings
+281	The Gilded Samurai's Steel Ring	2.302e92	Damage	3	5.304e1218	The Gilded Samurai's Steel Ring	artifacts_steel_ring
+282	Gilded Amenhotep's Mummy Hand Wraps	1.079e143	Damage	5	5.642e1223	Gilded Amenhotep's Mummy Hand Wraps	artifacts_mummy_hand_wraps
+283	Gilded Ma Zhu's Dual Blood Scimitars	1.077e201	Damage	0	3.153e1228	Gilded Ma Zhu's Dual Blood Scimitars	artifacts_dual_blood_scimitars
+284	Gilded Bobby's Steel Greaves	1.979e163	Damage	6	2.639e1233	Gilded Bobby's Steel Greaves	artifacts_steel_greaves
+285	Gilded Aphrodite's Holy Gloves	1.935e147	Monster_Gold	5	9.266e1237	Gilded Aphrodite's Holy Gloves	artifacts_holy_gloves
+286	Gilded Alabaster's Helmet	1.670e182	Damage	1	2.158e1243	Gilded Alabaster's Helmet	artifacts_ssr_white_helmet
+287	Gilded Amenhotep's Sickles	1.426e206	Damage	0	5.375e1247	Gilded Amenhotep's Sickles	artifacts_sickles
+288	Gilded Broyle's Adeptus boot	9.948e167	Damage	6	1.446e1253	Gilded Broyle's Adeptus boot	artifacts_adeptus_boot
+289	Gilded Amenhotep's Mummy Pants	1.162e202	Damage	4	7.003e1258	Gilded Amenhotep's Mummy Pants	artifacts_mummy_pants
+290	Gilded Natalia's Astral Ring	1.928e97	Damage	3	2.541e1263	Gilded Natalia's Astral Ring	artifacts_astral_ring
+291	Gilded George's Gauntlet 4 Boots	4.909e172	Damage	6	5.100e1267	Gilded George's Gauntlet 4 Boots	artifacts_gauntlet_4_boots
+292	Gilded Broyle's Molten Ring	3.541e101	Damage	3	8.719e1272	Gilded Broyle's Molten Ring	artifacts_molten_ring
+293	Gilded Athena's Condemnation	9.407e210	Damage	0	1.134e1278	Gilded Athena's Condemnation	artifacts_condemnation
+294	Gilded Ma Zhu's Ebony Cuirass	9.334e185	Damage	2	1.392e1282	Gilded Ma Zhu's Ebony Cuirass	artifacts_ebony_cuirass
+295	Gilded George's Emerald Ring	2.075e106	Damage	3	5.472e1287	Gilded George's Emerald Ring	artifacts_greater_emerald_ring
+296	Gilded Ma Zhu's Ebony Plated Greaves	2.153e177	Damage	6	2.633e1292	Gilded Ma Zhu's Ebony Plated Greaves	artifacts_ebony_plated_greaves
+297	Gilded Grant's Heavy Gauntlets	2.084e152	Damage	5	1.852e1297	Gilded Grant's Heavy Gauntlets	artifacts_heavy_gauntlets
+298	Gilded Amenhotep's Mummy Top	4.017e190	Damage	2	6.000e1301	Gilded Amenhotep's Mummy Top	artifacts_mummy_top
+299	Gilded Shinatobe's Miracle Fan	9.967e215	Damage	0	1.223e1307	Gilded Shinatobe's Miracle Fan	artifacts_miracle_fan
+300	Gilded Ma Zhu's Inlayed Ebony Ring	1.140e111	Damage	3	2.810e1311	Gilded Ma Zhu's Inlayed Ebony Ring	artifacts_inlayed_ebony_ring
+301	Gilded Amenhotep's Mummy Footwraps	1.116e182	Damage	6	2.709e1316	Gilded Amenhotep's Mummy Footwraps	artifacts_mummy_footwraps
+302	Gilded Aphrodite's Chest	1.282e195	Monster_Gold	2	3.909e1321	Gilded Aphrodite's Chest	artifacts_ssr_yellow_chest
+303	Gilded Shinatobe's Jade Ring	1.671e115	Damage	3	2.547e1325	Gilded Shinatobe's Jade Ring	artifacts_jade_ring
+304	Gilded Shinatobe's Herbalist Mocassins	7.997e186	Damage	6	5.389e1330	Gilded Shinatobe's Herbalist Mocassins	artifacts_herbalist_mocassins
+305	Gilded Aphrodite's Pants	1.734e207	Monster_Gold	4	6.181e1335	Gilded Aphrodite's Pants	artifacts_ssr_yellow_pants
+306	Gilded Astraea's Helmet	2.016e187	Damage	1	1.016e1340	Gilded Astraea's Helmet	artifacts_ssr_yellow_helmet
+307	Gilded Shinatobe's Teal Skirt	3.392e211	Damage	4	8.065e1344	Gilded Shinatobe's Teal Skirt	artifacts_teal_skirt
+308	Gilded Grant's Iron Greaves	1.960e191	Damage	6	2.700e1349	Gilded Grant's Iron Greaves	artifacts_iron_greaves
+309	Gilded Grant's Grievance	8.946e220	Damage	0	1.657e1354	Gilded Grant's Grievance	artifacts_grievance_ii
+310	Gilded Frostleaf's Iced Leafy Boots	6.259e195	Damage	6	9.320e1358	Gilded Frostleaf's Iced Leafy Boots	artifacts_leafy_boots_iced
+311	Gilded Shinatobe's Cutter's Robe	1.617e200	Damage	2	6.463e1363	Gilded Shinatobe's Cutter's Robe	artifacts_cutters_robe
+312	Gilded Grant's Chrysoprase Thigh Guards	1.247e216	Damage	4	3.680e1368	Gilded Grant's Chrysoprase Thigh Guards	artifacts_cutters_robe
+313	Gilded Grant's Chrysoprase Chestplate	5.061e204	Damage	2	1.639e1373	Gilded Grant's Chrysoprase Chestplate	artifacts_chrysoprase_chestplate
+314	Gilded Grant's Emerald Ring	1.811e120	Damage	3	1.345e1377	Gilded Grant's Emerald Ring	artifacts_emerald_ring
+315	Gilded Frostleaf's Iced Leafy Pants	2.583e220	Damage	4	1.414e1382	Gilded Frostleaf's Iced Leafy Pants	artifacts_leafy_pants_iced
+316	Gilded Frostleaf's Iced Leafy Poncho	1.568e209	Damage	2	2.555e1387	Gilded Frostleaf's Iced Leafy Poncho	artifacts_leafy_poncho_iced
+317	Gilded Frostleaf's Iced Leafy Gloves	2.606e157	Damage	5	2.002e1391	Gilded Frostleaf's Iced Leafy Gloves	artifacts_leafy_gloves_iced
+318	Gilded Frostleaf's Iced Leafy Staff	1.527e226	Damage	0	4.333e1396	Gilded Frostleaf's Iced Leafy Staff	artifacts_leafy_staff_iced
+
+----------ARTIFACTS BY SLOT ID----------
+
+4	Cid's Wand	10.997	Click_Damage	0	6.058e10	Cid's Wand	artifacts_pagan_wand
+7	Treebeast's Oak Staff	21735.970	Damage	0	3.135e21	Treebeast's Oak Staff	artifacts_autumn_gnarly_oak_staff
+9	Brittany's Sand Excavators	3.928e7	Damage	0	8.998e28	Brittany's Sand Excavators	artifacts_sand_excavators
+12	The Wandering Fisherman's Harpoon	1.258e11	Monster_Gold	0	1.347e40	The Wandering Fisherman's Harpoon	artifacts_harpoon
+18	Betty Clicker's Wand of Whipping	4.313e14	Monster_Gold	0	7.840e60	Betty Clicker's Wand of Whipping	artifacts_wand_of_whipping
+20	The Masked Samurai's Flame Tongue	1.017e18	Damage	0	6.978e68	The Masked Samurai's Flame Tongue	artifacts_flame_tongue
+23	The Great Forest Seer's Mud Golem Scepter	1.750e21	Damage	0	2.553e79	The Great Forest Seer's Mud Golem Scepter	artifacts_mud_golem_scepter
+30	Alexa's Peacekeepers	5.472e24	Critical_Damage	0	3.793e104	Alexa's Peacekeepers	artifacts_peacekeepers
+38	Natalia's Pagan Wand	9.274e28	Damage	0	4.510e135	Natalia's Pagan Wand	artifacts_pagan_wand
+43	Mercedes' Soulripper	6.137e32	Damage	0	1.580e155	Mercedes' Soulripper	artifacts_soulripper
+48	Bobby's Blade of Truth	1.141e37	Damage	0	8.074e174	Bobby's Blade of Truth	artifacts_blade_of_truth
+50	Broyle's Finalizer	2.595e40	Damage	0	4.240e182	Broyle's Finalizer	artifacts_finalizer
+54	Sir George II's Crystal Edge	1.453e44	Damage	0	1.643e199	Sir George II's Crystal Edge	artifacts_crystal_edge
+59	King Midas' Resin Sword	1.857e48	Gold_Received	0	4.070e219	King Midas' Resin Sword	artifacts_resin_sword
+61	Referi Jerator's Ice Fists	8.268e51	Damage	0	5.561e227	Referi Jerator's Ice Fists	artifacts_ice_fists
+66	Abaddon's Scythe	1.998e56	Damage	0	1.448e248	Abaddon's Scythe	artifacts_scythe
+68	Ma Zhu's Peacekeepers	6.195e59	Damage	0	2.816e256	Ma Zhu's Peacekeepers	artifacts_peacekeepers
+70	Amenhotep's Elegant Glaive	2.235e63	Damage	0	2.796e263	Amenhotep's Elegant Glaive	artifacts_black_focus_pants
+81	Beastlord's Golden Cult Staff	1.006e68	Click_Damage	0	4.558e309	Beastlord's Golden Cult Staff	artifacts_golden_cult_staff
+89	Athena's Amethyst Wand	2.743e72	Damage	0	4.587e344	Athena's Amethyst Wand	artifacts_amethyst_wand
+93	Aphrodite's Encircling Staff	3.419e76	Monster_Gold	0	1.670e361	Aphrodite's Encircling Staff	artifacts_encircling_staff
+97	Shinatobe's Purified Tessen	3.554e80	Damage	0	4.578e378	Shinatobe's Purified Tessen	artifacts_blockhead
+114	Grant's Ruby Cleaver	1.799e85	Damage	0	1.180e452	Grant's Ruby Cleaver	artifacts_ruby_cleaver
+128	Frostleaf's Winter Mousekawitch Wand	5.252e89	Damage	0	8.918e513	Frostleaf's Winter Mousekawitch Wand	artifacts_winter_mousekawitch_wand
+130	Dread Knight's Weapon	2.969e93	Weapon_Damage	0	2.135e523	Dread Knight's Weapon	artifacts_ssr_black
+132	Atlas' Weapon	1.685e97	Damage	0	2.739e532	Atlas' Weapon	artifacts_ssr_blue
+144	Terra's Weapon	4.141e101	Damage	0	2.414e585	Terra's Weapon	artifacts_ssr_green
+152	Phthalo's Weapon	1.158e106	Damage	0	9.447e619	Phthalo's Weapon	artifacts_chakra_chakrams
+162	Orntchya's Weapon	1.587e111	Damage	0	9.267e664	Orntchya's Weapon	artifacts_ssr_orange
+165	Lilin's Weapon	5.157e115	Damage	0	8.310e678	Lilin's Weapon	artifacts_ssr_pink
+171	Cadmia's Weapon	3.678e120	Damage	0	1.083e706	Cadmia's Weapon	artifacts_ssr_red
+179	Alabaster's Weapon	2.595e125	Damage	0	1.097e743	Alabaster's Weapon	artifacts_ssr_white
+186	Astraea's Weapon	1.393e130	Damage	0	2.603e774	Astraea's Weapon	artifacts_ssr_yellow
+190	Gilded Treebeast's Autumn's Fall	6.391e134	Damage	0	2.671e794	Gilded Treebeast's Autumn's Fall	artifacts_autumns_fall
+201	Gilded Ivan's Bloop Fist	1.169e140	Damage	0	8.471e844	Gilded Ivan's Bloop Fist	artifacts_bloop_fist
+211	Gilded Brittany's Shellsoul	1.435e145	Damage	0	4.537e891	Gilded Brittany's Shellsoul	artifacts_shellsoul
+213	The Gilded Samurai's Blue Cutter	1.146e149	Damage	0	1.241e900	The Gilded Samurai's Blue Cutter	artifacts_blue_cutter
+225	Gilded Leon's Obsidian Jaguar	1.252e154	Click_Damage	0	7.449e956	Gilded Leon's Obsidian Jaguar	artifacts_obsidian_jaguar
+232	The Gilded Forest Seer's Vinewood Rod	5.498e158	Damage	0	1.330e988	The Gilded Forest Seer's Vinewood Rod	artifacts_vinewood_rod
+236	Gilded Alexa's Dual Enchanted Cutlass	1.890e163	Critical_Damage	0	1.737e1007	Gilded Alexa's Dual Enchanted Cutlass	artifacts_dual_enchanted_cutlass
+241	Gilded Natalia's Ice Mace	8.704e167	Damage	0	2.971e1030	Gilded Natalia's Ice Mace	artifacts_ice_mace
+247	Gilded Mercedes' Face Puncture	6.388e172	Damage	0	2.485e1059	Gilded Mercedes' Face Puncture	artifacts_frosty_robe
+253	Gilded Bobby's Obsidian Decapitator	3.979e177	Damage	0	2.276e1087	Gilded Bobby's Obsidian Decapitator	artifacts_obsidian_decapitator
+256	Gilded George's Cutterpillow	9.150e181	Damage	0	8.211e1101	Gilded George's Cutterpillow	artifacts_cutterpillow
+261	Gilded Midas' Good Heavens	6.230e186	Gold_Received	0	3.272e1123	Gilded Midas' Good Heavens	artifacts_good_heavens
+272	Gilded Jerator's Avalanche	1.031e192	Damage	0	7.472e1175	Gilded Jerator's Avalanche	artifacts_avalanche
+276	Gilded Abaddon's Doom Cleave	2.098e196	Damage	0	5.483e1194	Gilded Abaddon's Doom Cleave	artifacts_doom_cleave
+283	Gilded Ma Zhu's Dual Blood Scimitars	1.077e201	Damage	0	3.153e1228	Gilded Ma Zhu's Dual Blood Scimitars	artifacts_dual_blood_scimitars
+287	Gilded Amenhotep's Sickles	1.426e206	Damage	0	5.375e1247	Gilded Amenhotep's Sickles	artifacts_sickles
+293	Gilded Athena's Condemnation	9.407e210	Damage	0	1.134e1278	Gilded Athena's Condemnation	artifacts_condemnation
+299	Gilded Shinatobe's Miracle Fan	9.967e215	Damage	0	1.223e1307	Gilded Shinatobe's Miracle Fan	artifacts_miracle_fan
+309	Gilded Grant's Grievance	8.946e220	Damage	0	1.657e1354	Gilded Grant's Grievance	artifacts_grievance_ii
+318	Gilded Frostleaf's Iced Leafy Staff	1.527e226	Damage	0	4.333e1396	Gilded Frostleaf's Iced Leafy Staff	artifacts_leafy_staff_iced
+
+0	Cid's Buttercup	0.030	Damage	1	5.000	Cid's Buttercup	artifacts_buttercup
+21	Treebeast's Weathered Helm	448.416	Damage	1	3.585e72	Treebeast's Weathered Helm	artifacts_autumn_weathered_helm
+24	Brittany's Kaffir Lily	8.479e5	Damage	1	4.195e83	Brittany's Kaffir Lily	artifacts_kaffir_lily
+27	The Wandering Fisherman's Earthy Headwrap	2.948e9	Monster_Gold	1	1.856e93	The Wandering Fisherman's Earthy Headwrap	artifacts_earthy_headwrap
+34	Betty Clicker's Chef Hat	1.030e14	Monster_Gold	1	6.903e119	Betty Clicker's Chef Hat	artifacts_chef_hat
+40	The Mask	1.497e18	Damage	1	2.170e143	The Mask	artifacts_orange_kabuki_mask
+44	Leon	5.996e21	Click_Damage	1	1.154e159	Leon	artifacts_lion_pup
+52	The Great Forest Seer's Mud Golem Cap	3.436e26	Damage	1	1.351e191	The Great Forest Seer's Mud Golem Cap	artifacts_mud_golem_cap
+56	Bobby's Heavy Helm	2.022e30	Damage	1	1.382e207	Bobby's Heavy Helm	artifacts_heavy_helm
+58	Broyle's Ifrit's Cowl	4.987e33	Damage	1	1.023e216	Broyle's Ifrit's Cowl	artifacts_ifrits_cowl
+84	Sir George II's Malachite Helm	1.300e39	Damage	1	9.022e322	Sir George II's Malachite Helm	artifacts_malachite_helm
+90	King Midas' Helm of the Victor	3.476e43	Gold_Received	1	4.201e349	King Midas' Helm of the Victor	artifacts_helm_of_the_victor
+96	Referi Jerator's Blockhead	4.141e47	Damage	1	7.298e373	Referi Jerator's Blockhead	artifacts_blockhead
+104	Abaddon's Skull Mask	1.073e52	Damage	1	1.513e408	Abaddon's Skull Mask	artifacts_skull_mask
+109	Amenhotep's Autumn Helm	2.227e56	Damage	1	4.180e429	Amenhotep's Autumn Helm	artifacts_autumn_helm
+113	Beastlord's Barbarian Headress	2.329e60	Click_Damage	1	2.276e447	Beastlord's Barbarian Headress	artifacts_barbarian_headress
+123	Aphrodite's Exaltation Hat	1.087e65	Monster_Gold	1	8.996e491	Aphrodite's Exaltation Hat	artifacts_exaltation_hat
+126	Shinatobe's Cowl	1.937e69	Damage	1	8.053e505	Shinatobe's Cowl	artifacts_shan_daille_cowl
+131	Grant's Dark War Horse Helm	5.203e73	Damage	1	3.838e527	Grant's Dark War Horse Helm	artifacts_war_horse_helm_dark
+135	Gilded Treebeast's Tribal Mask	1.524e78	Damage	1	1.269e545	Gilded Treebeast's Tribal Mask	artifacts_tribal_mask
+154	Gilded Brittany's Violet	1.405e83	Damage	1	5.575e628	Gilded Brittany's Violet	artifacts_violet
+177	The Gilded Fisherman's Cotton Bandana	3.050e88	Monster_Gold	1	3.198e733	The Gilded Fisherman's Cotton Bandana	artifacts_cotton_bandana
+181	The Gilded Mask	6.179e92	Damage	1	6.403e752	The Gilded Mask	artifacts_blue_kabuki_mask
+185	The Gilded Forest Seer's Woodsman Hat	7.925e96	Damage	1	2.458e771	The Gilded Forest Seer's Woodsman Hat	artifacts_woodsman_hat
+188	Gilded Natalia's Frosty Hat	9.402e100	Damage	1	3.222e785	Gilded Natalia's Frosty Hat	artifacts_frosty_hat
+192	Gilded Mercedes' Yellow Shades	3.531e105	Damage	1	1.454e803	Gilded Mercedes' Yellow Shades	artifacts_shades_yellow
+196	Gilded Bobby's Furlined Steel Helmet	6.002e109	Damage	1	1.881e821	Gilded Bobby's Furlined Steel Helmet	artifacts_furlined_steel_helmet
+204	Gilded Broyle's Adeptus Hat	5.419e114	Damage	1	3.555e859	Gilded Broyle's Adeptus Hat	artifacts_adeptus_hat
+206	Gilded George's Gauntlet 4 Head	4.349e118	Damage	1	9.971e868	Gilded George's Gauntlet 4 Head	artifacts_gauntlet_4_head
+209	Gilded Midas' Stoic mask	1.800e123	Gold_Received	1	3.258e880	Gilded Midas' Stoic mask	artifacts_stoic_mask
+216	Gilded Abaddon's Skull-Mask	3.478e127	Damage	1	9.530e913	Gilded Abaddon's Skull-Mask	artifacts_skull_mask
+223	Gilded Ma Zhu's Sacred Flame Mercenary Hat	4.235e132	Damage	1	2.184e947	Gilded Ma Zhu's Sacred Flame Mercenary Hat	artifacts_sacred_flame_mercenary_hat
+227	Gilded Amenhotep's Mummy Wrap	9.597e136	Damage	1	3.052e966	Gilded Amenhotep's Mummy Wrap	artifacts_mummy_wrap
+229	Gilded Grant's Gauntlet 4 Head	7.723e140	Damage	1	3.925e975	Gilded Grant's Gauntlet 4 Head	artifacts_gauntlet_4_head
+244	Gilded Frostleaf's Iced Leafy Monk Hat	8.927e145	Damage	1	9.067e1044	Gilded Frostleaf's Iced Leafy Monk Hat	artifacts_leafy_monk_hat_iced
+251	Gilded Dread Knight's Helmet	2.208e150	Weapon_Damage	1	9.220e1077	Gilded Dread Knight's Helmet	artifacts_ssr_black_helmet
+259	Gilded Atlas' Helmet	4.941e154	Damage	1	1.995e1114	Gilded Atlas' Helmet	artifacts_ssr_blue_helmet
+262	Gilded Terra's Helmet	9.055e158	Damage	1	3.176e1128	Gilded Terra's Helmet	artifacts_ssr_turquoise_helmet
+268	Gilded Phthalo's Helmet	2.905e163	Damage	1	1.697e1157	Gilded Phthalo's Helmet	artifacts_ssr_green_helmet
+271	Gilded Banana's Helmet	1.283e168	Damage	1	6.752e1170	Gilded Banana's Helmet	artifacts_ssr_orange_helmet
+275	Gilded Lilin's Helmet	2.366e172	Damage	1	8.922e1189	Gilded Lilin's Helmet	artifacts_ssr_pink_helmet
+277	Gilded Cadmia's Helmet	4.982e176	Damage	1	4.070e1199	Gilded Cadmia's Helmet	artifacts_ssr_red_helmet
+286	Gilded Alabaster's Helmet	1.670e182	Damage	1	2.158e1243	Gilded Alabaster's Helmet	artifacts_ssr_white_helmet
+306	Gilded Astraea's Helmet	2.016e187	Damage	1	1.016e1340	Gilded Astraea's Helmet	artifacts_ssr_yellow_helmet
+
+2	Cid's Cuirass	1.430	Click_Damage	2	24807.920	Cid's Cuirass	artifacts_adventurers_cuirass
+14	Treebeast's Weathered Gear	19218.300	Damage	2	4.397e46	Treebeast's Weathered Gear	artifacts_autumn_weathered_gear
+22	Brittany's Bikini Top	2.385e8	Damage	2	3.279e75	Brittany's Bikini Top	artifacts_bikini_top_2
+26	The Wandering Fisherman's Breathy Cotton Shirt	3.724e11	Monster_Gold	2	2.042e90	The Wandering Fisherman's Breathy Cotton Shirt	artifacts_breathy_cotton_shirt
+33	The Masked Samurai's Devout Robe	2.868e15	Damage	2	8.111e114	The Masked Samurai's Devout Robe	artifacts_devout_robe
+35	Leon's Barbarian Cuirass	6.769e18	Click_Damage	2	1.476e124	Leon's Barbarian Cuirass	artifacts_barbarian_cuirass
+42	The Great Forest Seer's Weathered Cuirass	3.052e22	Damage	2	1.387e151	The Great Forest Seer's Weathered Cuirass	artifacts_weathered_cuirass
+60	Alexa's Black Focus Robe	5.533e26	Critical_Damage	2	7.561e222	Alexa's Black Focus Robe	artifacts_black_focus_robe
+64	Natalia's Breathy Cotton Shirt	5.998e30	Damage	2	1.978e239	Natalia's Breathy Cotton Shirt	artifacts_breathy_cotton_shirt
+88	Mercedes' Onslaught Defender	5.121e35	Damage	2	2.090e340	Mercedes' Onslaught Defender	artifacts_onslaught_defender_black
+94	Bobby's Gilded Ebony Plates	6.743e39	Damage	2	1.048e366	Bobby's Gilded Ebony Plates	artifacts_gilded_ebony_plates
+98	Broyle's Ifrit's Cowl	7.558e43	Damage	2	2.823e383	Broyle's Ifrit's Cowl	artifacts_ifrits_coat
+105	Sir George II's Malachite Cuirass	2.010e48	Damage	2	1.065e413	Sir George II's Malachite Cuirass	artifacts_malachite_cuirass
+107	King Midas' Holy Wrath Chestpiece	1.183e52	Gold_Received	2	3.906e420	King Midas' Holy Wrath Chestpiece	artifacts_holy_wrath_chestpiece
+111	Referi Jerator's Sky Steel Cuirass	1.523e56	Damage	2	1.688e439	Referi Jerator's Sky Steel Cuirass	artifacts_sky_steel_cuirass
+115	Abaddon's Witch Doctor Armor	1.104e60	Damage	2	2.330e455	Abaddon's Witch Doctor Armor	artifacts_witch_doctor_armor
+117	Ma Zhu's Pristine Prayer Robe	1.191e64	Damage	2	1.604e464	Ma Zhu's Pristine Prayer Robe	artifacts_pristine_prayer_robe
+129	Amenhotep's Holy Wrath Chestpiece	1.443e69	Damage	2	6.563e518	Amenhotep's Holy Wrath Chestpiece	artifacts_holy_wrath_chestpiece
+134	Beastlord's Barbarian Cuirass	2.622e73	Click_Damage	2	5.737e539	Beastlord's Barbarian Cuirass	artifacts_barbarian_cuirass
+136	Athena's Zealot's Tunic	5.110e77	Damage	2	6.683e549	Athena's Zealot's Tunic	artifacts_zealots_tunic
+138	Shinatobe's Scholar Robes	4.749e81	Damage	2	4.897e558	Shinatobe's Scholar Robes	artifacts_scholar_robes
+141	Grant's Banded Iron Cuirass	3.262e85	Damage	2	3.927e571	Grant's Banded Iron Cuirass	artifacts_banded_iron_cuirass
+146	Frostleaf's Winter Sacred Liana	3.685e89	Damage	2	4.190e593	Frostleaf's Winter Sacred Liana	artifacts_winter_sacred_liana
+155	Dread Knight's Chest	9.375e93	Weapon_Damage	2	8.474e632	Dread Knight's Chest	artifacts_ssr_black_chest
+159	Atlas' Chest	2.158e98	Damage	2	1.328e650	Atlas' Chest	artifacts_ssr_blue_chest
+164	Terra's Chest	4.359e102	Damage	2	8.501e673	Terra's Chest	artifacts_ssr_turquoise_chest
+172	Phthalo's Chest	4.332e107	Damage	2	8.820e710	Phthalo's Chest	artifacts_ssr_green_chest
+183	Orntchya's Chest	3.826e112	Damage	2	3.223e762	Orntchya's Chest	artifacts_ssr_orange_chest
+191	Lilin's Chest	1.653e117	Damage	2	1.519e799	Lilin's Chest	artifacts_ssr_pink_chest
+202	Cadmia's Chest	8.928e121	Damage	2	7.894e849	Cadmia's Chest	artifacts_ssr_red_chest
+207	Alabaster's Chest	1.265e126	Damage	2	4.604e872	Alabaster's Chest	artifacts_ssr_white_chest
+218	Astraea's Chest	1.186e131	Damage	2	1.575e924	Astraea's Chest	artifacts_ssr_yellow_chest
+221	Gilded Treebeast's Autumn Chest	1.872e135	Damage	2	9.614e937	Gilded Treebeast's Autumn Chest	artifacts_autumn_chest
+226	Gilded Brittany's Top	1.270e140	Damage	2	4.610e961	Gilded Brittany's Top	artifacts_shan_daille_top
+230	Gilded Betty Clicker's Winter Robe	3.875e144	Monster_Gold	2	5.224e979	Gilded Betty Clicker's Winter Robe	artifacts_winter_robe
+233	The Gilded Samurai's Focus Robe	1.141e149	Damage	2	2.677e993	The Gilded Samurai's Focus Robe	artifacts_focus_robe
+237	The Gilded Forest Seer's Leafy Poncho	5.499e153	Damage	2	2.671e1012	The Gilded Forest Seer's Leafy Poncho	artifacts_leafy_poncho
+239	Gilded Alexa's Meadow Top	3.266e158	Critical_Damage	2	1.209e1022	Gilded Alexa's Meadow Top	artifacts_meadow_top
+246	Gilded Natalia's Frosty Robe	9.108e162	Damage	2	2.389e1054	Gilded Natalia's Frosty Robe	artifacts_frosty_robe
+250	Gilded Bobby's Scrap Metal Cuirass	1.434e167	Damage	2	7.302e1073	Gilded Bobby's Scrap Metal Cuirass	artifacts_scrap_metal_cuirass
+252	Gilded Broyle's Adeptus Robe	1.664e171	Damage	2	1.419e1082	Gilded Broyle's Adeptus Robe	artifacts_adeptus_robe
+258	Gilded George's Gauntlet 4 Chest	3.957e175	Damage	2	1.364e1110	Gilded George's Gauntlet 4 Chest	artifacts_gauntlet_4_chest
+265	Gilded Midas' Paladin Armor	1.918e180	Gold_Received	2	6.612e1142	Gilded Midas' Paladin Armor	artifacts_paladin_armor
+294	Gilded Ma Zhu's Ebony Cuirass	9.334e185	Damage	2	1.392e1282	Gilded Ma Zhu's Ebony Cuirass	artifacts_ebony_cuirass
+298	Gilded Amenhotep's Mummy Top	4.017e190	Damage	2	6.000e1301	Gilded Amenhotep's Mummy Top	artifacts_mummy_top
+302	Gilded Aphrodite's Chest	1.282e195	Monster_Gold	2	3.909e1321	Gilded Aphrodite's Chest	artifacts_ssr_yellow_chest
+311	Gilded Shinatobe's Cutter's Robe	1.617e200	Damage	2	6.463e1363	Gilded Shinatobe's Cutter's Robe	artifacts_cutters_robe
+313	Gilded Grant's Chrysoprase Chestplate	5.061e204	Damage	2	1.639e1373	Gilded Grant's Chrysoprase Chestplate	artifacts_chrysoprase_chestplate
+316	Gilded Frostleaf's Iced Leafy Poncho	1.568e209	Damage	2	2.555e1387	Gilded Frostleaf's Iced Leafy Poncho	artifacts_leafy_poncho_iced
+
+3	Cid's Bronze Ring	2.738	Click_Damage	3	1.584e6	Cid's Bronze Ring	artifacts_bronze_sigil_ring
+5	Brittany's Ruby Ring	3556.764	Damage	3	6.056e14	Brittany's Ruby Ring	artifacts_greater_ruby_ring
+15	The Wandering Fisherman's Carpenter's Ring	2.380e7	Monster_Gold	3	4.843e49	The Wandering Fisherman's Carpenter's Ring	artifacts_autumn_weathered_gear
+25	The Great Forest Seer's Frog Ring	1.733e11	Damage	3	1.897e86	The Great Forest Seer's Frog Ring	artifacts_frog_ring
+49	Mercedes' Obsidian Ring	1.577e16	Damage	3	1.740e178	Mercedes' Obsidian Ring	artifacts_obsidian_ring
+76	Bobby's Iron Ring	2.533e21	Damage	3	4.627e288	Bobby's Iron Ring	artifacts_iron_ring
+95	King Midas' Topaz Ring	1.716e26	Gold_Received	3	2.233e370	King Midas' Topaz Ring	artifacts_topaz_ring
+102	Referi Jerator's Opal Ring	2.725e30	Damage	3	2.086e400	Referi Jerator's Opal Ring	artifacts_opal_ring
+106	Abaddon's Skull Ring	2.262e34	Damage	3	2.379e417	Abaddon's Skull Ring	artifacts_skull_ring
+122	Amenhotep's Spiritual Ring	2.831e39	Damage	3	7.112e487	Amenhotep's Spiritual Ring	artifacts_spiritual_ring
+170	Athena's Souls of the Fallen	1.864e45	Damage	3	8.770e700	Athena's Souls of the Fallen	artifacts_souls_of_the_fallen
+173	Aphrodite's Heartful Ring	5.182e49	Monster_Gold	3	5.878e715	Aphrodite's Heartful Ring	artifacts_heartful_ring
+176	Dread Knight's Ring	8.271e53	Weapon_Damage	3	2.037e729	Dread Knight's Ring	artifacts_black_wave_rider_ring
+180	Atlas' Ring	3.811e58	Damage	3	1.873e748	Atlas' Ring	artifacts_wave_rider_ring
+182	Terra's Ring	1.488e63	Damage	3	3.291e757	Terra's Ring	artifacts_ring_of_insight
+194	Phthalo's Ring	8.418e67	Damage	3	4.882e812	Phthalo's Ring	artifacts_green_wave_rider_ring
+198	Orntchya's Ring	2.352e72	Damage	3	5.688e830	Orntchya's Ring	artifacts_orange_wave_rider_ring
+215	Lilin's Ring	6.421e77	Damage	3	1.319e910	Lilin's Ring	artifacts_broken_promises
+219	Cadmia's Ring	8.413e81	Damage	3	5.054e927	Cadmia's Ring	artifacts_red_wave_rider_ring
+270	Astraea's Ring	2.253e87	Damage	3	6.695e1165	Astraea's Ring	artifacts_yellow_wave_rider_ring
+281	The Gilded Samurai's Steel Ring	2.302e92	Damage	3	5.304e1218	The Gilded Samurai's Steel Ring	artifacts_steel_ring
+290	Gilded Natalia's Astral Ring	1.928e97	Damage	3	2.541e1263	Gilded Natalia's Astral Ring	artifacts_astral_ring
+292	Gilded Broyle's Molten Ring	3.541e101	Damage	3	8.719e1272	Gilded Broyle's Molten Ring	artifacts_molten_ring
+295	Gilded George's Emerald Ring	2.075e106	Damage	3	5.472e1287	Gilded George's Emerald Ring	artifacts_greater_emerald_ring
+300	Gilded Ma Zhu's Inlayed Ebony Ring	1.140e111	Damage	3	2.810e1311	Gilded Ma Zhu's Inlayed Ebony Ring	artifacts_inlayed_ebony_ring
+303	Gilded Shinatobe's Jade Ring	1.671e115	Damage	3	2.547e1325	Gilded Shinatobe's Jade Ring	artifacts_jade_ring
+314	Gilded Grant's Emerald Ring	1.811e120	Damage	3	1.345e1377	Gilded Grant's Emerald Ring	artifacts_emerald_ring
+
+6	Cid's Trousers	7.734	Click_Damage	4	6.242e17	Cid's Trousers	artifacts_adventurers_trousers
+10	Treebeast's Weathered Thigh Guards	37685.430	Damage	4	3.475e32	Treebeast's Weathered Thigh Guards	artifacts_autumn_weathered_thigh_guards
+13	Ivan's Trunks	4.193e7	Damage	4	1.640e43	Ivan's Trunks	artifacts_trunks_2
+17	Brittany's Bikini Bottom	1.294e11	Damage	4	3.800e57	Brittany's Bikini Bottom	artifacts_bikini_bottom_8
+19	The Wandering Fisherman's Training Shorts	2.263e14	Monster_Gold	4	9.180e64	The Wandering Fisherman's Training Shorts	artifacts_training_shorts
+29	Betty Clicker's Eosopher Leggings	1.063e18	Monster_Gold	4	8.884e100	Betty Clicker's Eosopher Leggings	artifacts_eosopher_leggings
+46	The Masked Samurai's Leather Leggings	2.770e22	Damage	4	3.093e166	The Masked Samurai's Leather Leggings	artifacts_leather_leggings
+53	Leon's Barbarian Bottoms	3.405e26	Click_Damage	4	4.192e195	Leon's Barbarian Bottoms	artifacts_barbarian_bottoms
+57	The Great Forest Seer's Weathered Thigh Guards	5.812e30	Damage	4	4.766e211	The Great Forest Seer's Weathered Thigh Guards	artifacts_weathered_thigh_gaurds
+69	Alexa's Black Focus Pants	1.189e35	Critical_Damage	4	1.759e260	Alexa's Black Focus Pants	artifacts_black_focus_pants
+71	Mercedes' Banded Iron Leggings	3.971e38	Damage	4	9.906e267	Mercedes' Banded Iron Leggings	artifacts_banded_iron_leggings
+74	Bobby's Onslaught Deliverance	1.458e42	Damage	4	2.581e280	Bobby's Onslaught Deliverance	artifacts_onslaught_deliverance
+77	Broyle's Zealot's Girdle	1.304e46	Damage	4	5.311e292	Broyle's Zealot's Girdle	artifacts_zealots_girdle
+79	Sir George II's Malachite Leggings	8.539e49	Damage	4	2.037e300	Sir George II's Malachite Leggings	artifacts_malachite_leggings
+87	King Midas' Haelig Pants	2.099e54	Gold_Received	4	3.192e336	King Midas' Haelig Pants	artifacts_haelig_pants
+92	Referi Jerator's Sky Steel Leggings	2.601e58	Damage	4	6.424e356	Referi Jerator's Sky Steel Leggings	artifacts_sky_steel_leggings
+100	Abaddon's Witch Doctor Pants	3.583e62	Damage	4	8.249e391	Abaddon's Witch Doctor Pants	artifacts_witch_doctor_pants
+103	Ma Zhu's Pristine Prayer Pants	1.891e66	Damage	4	2.860e404	Ma Zhu's Pristine Prayer Pants	artifacts_pristine_prayer_pants
+110	Amenhotep's Paladin Leggings	8.761e70	Damage	4	1.641e434	Amenhotep's Paladin Leggings	artifacts_paladin_leggings
+116	Beastlord's Barbarian Bottoms	1.654e75	Click_Damage	4	3.118e459	Beastlord's Barbarian Bottoms	artifacts_barbarian_bottoms
+119	Athena's Zealot's Girdle	3.410e79	Damage	4	3.546e473	Athena's Zealot's Girdle	artifacts_zealots_girdle
+121	Aphrodite's Exalted Tights	5.961e83	Monster_Gold	4	8.937e482	Aphrodite's Exalted Tights	artifacts_exalted_tights
+133	Shinatobe's Awakening Shinguards	3.631e88	Damage	4	1.105e536	Shinatobe's Awakening Shinguards	artifacts_awakening_shinguards
+137	Grant's Banded Iron Leggings	1.283e93	Damage	4	4.729e554	Grant's Banded Iron Leggings	artifacts_banded_iron_leggings
+143	Frostleaf's Winter Entwined Loincloth	4.860e97	Damage	4	1.019e581	Frostleaf's Winter Entwined Loincloth	artifacts_winter_entwined_loincloth
+145	Dread Knight's Pants	3.949e101	Weapon_Damage	4	1.321e589	Dread Knight's Pants	artifacts_ssr_black_pants
+149	Atlas' Pants	7.253e105	Damage	4	1.525e606	Atlas' Pants	artifacts_ssr_blue_pants
+151	Terra's Pants	1.128e110	Damage	4	1.061e615	Terra's Pants	artifacts_ssr_turquoise_pants
+156	Phthalo's Pants	4.992e114	Damage	4	1.662e637	Phthalo's Pants	artifacts_ssr_green_pants
+161	Orntchya's Pants	1.640e119	Damage	4	1.044e660	Orntchya's Pants	artifacts_ssr_orange_pants
+167	Lilin's Pants	2.704e123	Damage	4	5.474e686	Lilin's Pants	artifacts_ssr_pink_pants
+169	Cadmia's Pants	3.498e127	Damage	4	2.199e696	Cadmia's Pants	artifacts_ssr_red_pants
+174	Alabaster's Pants	9.996e131	Damage	4	1.093e720	Alabaster's Pants	artifacts_ssr_white_pants
+197	Astraea's Pants	1.765e137	Damage	4	3.692e825	Astraea's Pants	artifacts_ssr_yellow_pants
+199	Gilded Treebeast's Autumn Leggings	2.318e141	Damage	4	1.500e835	Gilded Treebeast's Autumn Leggings	artifacts_autumn_leggings
+217	Gilded Ivan's Cutter Shorts	6.496e146	Damage	4	1.210e919	Gilded Ivan's Cutter Shorts	artifacts_cutter_shorts
+222	The Gilded Fisherman's Herbalist Britches	3.027e151	Monster_Gold	4	2.299e941	The Gilded Fisherman's Herbalist Britches	artifacts_herbalist_britches
+234	Gilded Betty Clicker's Prayer Pants	2.160e156	Monster_Gold	4	3.260e998	Gilded Betty Clicker's Prayer Pants	artifacts_prayer_pants
+240	The Gilded Samurai's Focus Pants	5.667e160	Damage	4	1.578e1027	The Gilded Samurai's Focus Pants	artifacts_focus_pants
+243	The Gilded Forest Seer's Leafy Pants	2.634e165	Damage	4	9.456e1040	The Gilded Forest Seer's Leafy Pants	artifacts_leafy_pants
+249	Gilded Alexa's Goldenrod Pants	5.567e169	Critical_Damage	4	2.343e1069	Gilded Alexa's Goldenrod Pants	artifacts_goldenrod_pants
+255	Gilded Natalia's Frosty Leggings	1.584e174	Damage	4	1.786e1097	Gilded Natalia's Frosty Leggings	artifacts_frosty_leggings
+257	Gilded Mercedes' Paladin Leggings	1.180e178	Damage	4	3.836e1105	Gilded Mercedes' Paladin Leggings	artifacts_paladin_leggings
+264	Gilded Bobby's Banded Iron Leggings	9.141e182	Damage	4	1.098e1138	Gilded Bobby's Banded Iron Leggings	artifacts_banded_iron_leggings
+269	Gilded Broyle's Adeptus Leggings	3.805e187	Damage	4	5.034e1160	Gilded Broyle's Adeptus Leggings	artifacts_adeptus_leggings
+273	Gilded George's Gauntlet 4 Pants	1.204e192	Damage	4	2.223e1180	Gilded George's Gauntlet 4 Pants	artifacts_gauntlet_4_pants
+280	Gilded Ma Zhu's Ebony Plated Leggings	8.046e196	Damage	4	2.405e1213	Gilded Ma Zhu's Ebony Plated Leggings	artifacts_ebony_plated_leggings
+289	Gilded Amenhotep's Mummy Pants	1.162e202	Damage	4	7.003e1258	Gilded Amenhotep's Mummy Pants	artifacts_mummy_pants
+305	Gilded Aphrodite's Pants	1.734e207	Monster_Gold	4	6.181e1335	Gilded Aphrodite's Pants	artifacts_ssr_yellow_pants
+307	Gilded Shinatobe's Teal Skirt	3.392e211	Damage	4	8.065e1344	Gilded Shinatobe's Teal Skirt	artifacts_teal_skirt
+312	Gilded Grant's Chrysoprase Thigh Guards	1.247e216	Damage	4	3.680e1368	Gilded Grant's Chrysoprase Thigh Guards	artifacts_cutters_robe
+315	Gilded Frostleaf's Iced Leafy Pants	2.583e220	Damage	4	1.414e1382	Gilded Frostleaf's Iced Leafy Pants	artifacts_leafy_pants_iced
+
+1	Treebeast's Forest Gloves	2.566	Damage	5	92.095	Treebeast's Forest Gloves	artifacts_autumn_forest_gloves
+8	Ivan's Training Gloves	13738.440	Damage	5	1.127e24	Ivan's Training Gloves	artifacts_winter_training_gloves
+11	Betty Clicker's Gloves	6.508e7	Monster_Gold	5	4.594e35	Betty Clicker's Gloves	artifacts_wheys_gloves
+32	Leon's Barbarian Vambraces	4.669e11	Click_Damage	5	7.366e111	Leon's Barbarian Vambraces	artifacts_barbarian_vambraces
+37	The Great Forest Seer's Weathered Gauntlets	6.491e15	Damage	5	3.581e131	The Great Forest Seer's Weathered Gauntlets	artifacts_weathered_gauntlets
+39	Natalia's Breathy Arm Wraps	9.480e18	Damage	5	4.890e139	Natalia's Breathy Arm Wraps	artifacts_breathy_arm_wraps
+45	Mercedes' Onslaught Gauntlets	4.661e22	Damage	5	2.605e161	Mercedes' Onslaught Gauntlets	artifacts_onslaught_gauntlet_black
+55	Bobby's Heavy Gauntlets	1.077e27	Damage	5	3.233e203	Bobby's Heavy Gauntlets	artifacts_heavy_gauntlets
+62	Broyle's Ifrit's Gloves	5.905e30	Damage	5	1.724e231	Broyle's Ifrit's Gloves	artifacts_ifrits_gloves
+65	Sir George II's Malachite Gloves	2.679e34	Damage	5	1.521e244	Sir George II's Malachite Gloves	artifacts_malachite_gloves
+67	King Midas' Paladin Boots	1.110e38	Gold_Received	5	3.551e252	King Midas' Paladin Boots	artifacts_paladin_boots
+75	Abaddon's Witch Doctor Gloves	1.130e42	Damage	5	6.180e282	Abaddon's Witch Doctor Gloves	artifacts_witch_doctor_gloves
+78	Beastlord's Barbarian Vambraces	1.894e46	Click_Damage	5	2.063e297	Beastlord's Barbarian Vambraces	artifacts_barbarian_vambraces
+80	Athena's Zealot's Gloves	2.378e50	Damage	5	1.364e306	Athena's Zealot's Gloves	artifacts_zealots_gloves
+83	Grant's Banded Iron Gauntlets	1.546e54	Damage	5	5.566e318	Grant's Banded Iron Gauntlets	artifacts_banded_iron_gauntlets
+85	Frostleaf's Winter Entwined Fingers	1.073e58	Damage	5	5.994e327	Frostleaf's Winter Entwined Fingers	artifacts_winter_entwined_fingers
+125	Dread Knight's Gloves	2.058e63	Weapon_Damage	5	1.369e501	Dread Knight's Gloves	artifacts_ssr_black_gloves
+140	Atlas' Gloves	1.105e68	Damage	5	1.242e568	Atlas' Gloves	artifacts_ssr_blue_gloves
+142	Terra's Gloves	1.688e72	Damage	5	2.360e576	Terra's Gloves	artifacts_ssr_turquoise_gloves
+147	Phthalo's Gloves	3.363e76	Damage	5	1.796e597	Phthalo's Gloves	artifacts_ssr_green_gloves
+150	Orntchya's Gloves	8.207e80	Damage	5	1.247e611	Orntchya's Gloves	artifacts_ssr_orange_gloves
+153	Lilin's Gloves	9.266e84	Damage	5	1.116e624	Lilin's Gloves	artifacts_ssr_pink_gloves
+158	Cadmia's Gloves	3.246e89	Damage	5	1.153e647	Cadmia's Gloves	artifacts_ssr_red_gloves
+160	Alabaster's Gloves	2.777e93	Damage	5	1.413e656	Alabaster's Gloves	artifacts_ssr_white_gloves
+184	Astraea's Gloves	3.352e98	Damage	5	8.871e766	Astraea's Gloves	artifacts_ssr_yellow_gloves
+195	Gilded Treebeast's Autumn Gauntlet	1.054e103	Damage	5	3.274e816	Gilded Treebeast's Autumn Gauntlet	artifacts_autumn_gauntlet
+205	The Gilded Forest Seer's Forester Magic Sleeves	7.926e107	Damage	5	1.232e864	The Gilded Forest Seer's Forester Magic Sleeves	artifacts_forester_magic_sleeves
+210	Gilded Natalia's Frosty Gloves	6.224e112	Damage	5	4.051e886	Gilded Natalia's Frosty Gloves	artifacts_frosty_gloves
+224	Gilded Bobby's Reinforced Steel Gauntlet	1.116e118	Damage	5	3.800e951	Gilded Bobby's Reinforced Steel Gauntlet	artifacts_reinforced_steel_gauntlet
+231	Gilded Broyle's Adeptus Gloves	3.234e122	Damage	5	2.529e984	Gilded Broyle's Adeptus Gloves	artifacts_adeptus_gloves
+238	Gilded George's Gauntlet 4 Gloves	2.483e127	Damage	5	2.002e1017	Gilded George's Gauntlet 4 Gloves	artifacts_gauntlet_4_gloves
+248	Gilded Midas' Paladin Gauntlets	5.446e132	Gold_Received	5	1.324e1065	Gilded Midas' Paladin Gauntlets	artifacts_paladin_gauntlets
+279	Gilded Ma Zhu's Ebony Gloves	2.395e138	Damage	5	1.023e1209	Gilded Ma Zhu's Ebony Gloves	artifacts_ebony_gloves
+282	Gilded Amenhotep's Mummy Hand Wraps	1.079e143	Damage	5	5.642e1223	Gilded Amenhotep's Mummy Hand Wraps	artifacts_mummy_hand_wraps
+285	Gilded Aphrodite's Holy Gloves	1.935e147	Monster_Gold	5	9.266e1237	Gilded Aphrodite's Holy Gloves	artifacts_holy_gloves
+297	Gilded Grant's Heavy Gauntlets	2.084e152	Damage	5	1.852e1297	Gilded Grant's Heavy Gauntlets	artifacts_heavy_gauntlets
+317	Gilded Frostleaf's Iced Leafy Gloves	2.606e157	Damage	5	2.002e1391	Gilded Frostleaf's Iced Leafy Gloves	artifacts_leafy_gloves_iced
+
+16	Cid's Monk Shoes	8.713	Click_Damage	6	1.140e54	Cid's Monk Shoes	artifacts_monk_shoes
+28	Treebeast's Weathered Boots	98502.470	Damage	6	7.992e97	Treebeast's Weathered Boots	artifacts_autumn_weathered_boots
+31	Brittany's Flipflops	4.801e8	Damage	6	1.466e108	Brittany's Flipflops	artifacts_flipflops_5
+36	The Wandering Fisherman's Flipflops	1.569e12	Monster_Gold	6	4.577e127	The Wandering Fisherman's Flipflops	artifacts_flipflops_1
+41	Betty Clicker's Herbalist Mocassins	2.542e16	Monster_Gold	6	5.149e147	Betty Clicker's Herbalist Mocassins	artifacts_herbalist_mocassins
+47	Leon's Barbarian Shoes	1.754e20	Click_Damage	6	3.096e170	Leon's Barbarian Shoes	artifacts_barbarian_shoes
+51	The Great Forest Seer's Leafy Boots	7.423e23	Damage	6	4.321e186	The Great Forest Seer's Leafy Boots	artifacts_leafy_boots
+72	Alexa's Path Shoes	6.000e28	Critical_Damage	6	2.031e271	Alexa's Path Shoes	artifacts_path_shoes
+91	Natalia's Flipflops	1.771e33	Damage	6	3.207e353	Natalia's Flipflops	artifacts_flipflops_1
+101	Mercedes' Onslaught Boots	5.505e37	Damage	6	3.047e395	Mercedes' Onslaught Boots	artifacts_onslaught_boots_black
+108	Bobby's Banded Iron Greaves	1.405e42	Damage	6	5.412e425	Bobby's Banded Iron Greaves	artifacts_banded_iron_greaves
+112	Broyle's Ifrit's Boots	2.445e46	Damage	6	3.697e443	Broyle's Ifrit's Boots	artifacts_ifrits_boots
+120	Sir George II's Malachite Boots	1.337e51	Damage	6	1.802e478	Sir George II's Malachite Boots	artifacts_malachite_boots
+124	Referi Jerator's Plain Wizard Boots	3.700e55	Damage	6	6.465e496	Referi Jerator's Plain Wizard Boots	artifacts_plain_wizard_boots
+127	Abaddon's Witch Doctor Slippers	4.124e59	Damage	6	1.156e509	Abaddon's Witch Doctor Slippers	artifacts_witch_doctor_slippers
+139	Ma Zhu's Path Shoes	4.644e64	Damage	6	1.355e563	Ma Zhu's Path Shoes	artifacts_path_shoes
+148	Athena's Zealot's Boots	1.732e69	Damage	6	5.854e601	Athena's Zealot's Boots	artifacts_ssr_green_gloves
+157	Aphrodite's Exalted Slippers	1.224e74	Monster_Gold	6	2.708e642	Aphrodite's Exalted Slippers	artifacts_exalted_slippers
+168	Grant's Banded Iron Greaves	1.229e79	Damage	6	2.626e691	Grant's Banded Iron Greaves	artifacts_banded_iron_greaves
+175	Frostleaf's Winter Entwined Feet	6.014e83	Damage	6	4.718e724	Frostleaf's Winter Entwined Feet	artifacts_winter_entwined_feet
+178	Dread Knight's Boots	1.094e88	Weapon_Damage	6	4.022e738	Dread Knight's Boots	artifacts_ssr_black_boots
+187	Atlas' Boots	1.264e93	Damage	6	5.354e780	Atlas' Boots	artifacts_ssr_blue_boots
+189	Terra's Boots	1.947e97	Damage	6	1.447e789	Terra's Boots	artifacts_ssr_turquoise_boots
+193	Phthalo's Boots	5.569e101	Damage	6	9.934e807	Phthalo's Boots	artifacts_ssr_green_boots
+200	Orntchya's Boots	4.030e106	Damage	6	1.105e840	Orntchya's Boots	artifacts_ssr_orange_boots
+203	Lilin's Boots	2.224e111	Damage	6	1.664e854	Lilin's Boots	artifacts_ssr_pink_boots
+208	Cadmia's Boots	3.291e115	Damage	6	1.009e877	Cadmia's Boots	artifacts_ssr_red_boots
+212	Alabaster's Boots	1.222e120	Damage	6	6.658e895	Alabaster's Boots	artifacts_ssr_white_boots
+214	Astraea's Boots	1.986e124	Damage	6	1.681e905	Astraea's Boots	artifacts_ssr_yellow_boots
+220	Gilded Treebeast's Autumn Boots	9.777e128	Damage	6	4.272e932	Gilded Treebeast's Autumn Boots	artifacts_autumn_boots
+228	Gilded Betty Clicker's Shoes of the Devaout Path	3.896e133	Monster_Gold	6	1.188e971	Gilded Betty Clicker's Shoes of the Devaout Path	artifacts_shoes_of_the_devout_path
+242	The Gilded Samurai's Path Shoes	2.357e138	Damage	6	2.479e1036	The Gilded Samurai's Path Shoes	artifacts_path_shoes
+254	The Gilded Forest Seer's Leafy Slippers	3.868e143	Damage	6	1.760e1092	The Gilded Forest Seer's Leafy Slippers	artifacts_leafy_slippers
+263	Gilded Alexa's Herbalist Mocassins	6.761e148	Critical_Damage	6	5.469e1133	Gilded Alexa's Herbalist Mocassins	artifacts_herbalist_mocassins
+267	Gilded Natalia's Frosty Boots	2.958e153	Damage	6	7.316e1151	Gilded Natalia's Frosty Boots	artifacts_frosty_boots
+274	Gilded Mercedes' Exalted Slippers	2.049e158	Damage	6	1.484e1185	Gilded Mercedes' Exalted Slippers	artifacts_exalted_slippers
+284	Gilded Bobby's Steel Greaves	1.979e163	Damage	6	2.639e1233	Gilded Bobby's Steel Greaves	artifacts_steel_greaves
+288	Gilded Broyle's Adeptus boot	9.948e167	Damage	6	1.446e1253	Gilded Broyle's Adeptus boot	artifacts_adeptus_boot
+291	Gilded George's Gauntlet 4 Boots	4.909e172	Damage	6	5.100e1267	Gilded George's Gauntlet 4 Boots	artifacts_gauntlet_4_boots
+296	Gilded Ma Zhu's Ebony Plated Greaves	2.153e177	Damage	6	2.633e1292	Gilded Ma Zhu's Ebony Plated Greaves	artifacts_ebony_plated_greaves
+301	Gilded Amenhotep's Mummy Footwraps	1.116e182	Damage	6	2.709e1316	Gilded Amenhotep's Mummy Footwraps	artifacts_mummy_footwraps
+304	Gilded Shinatobe's Herbalist Mocassins	7.997e186	Damage	6	5.389e1330	Gilded Shinatobe's Herbalist Mocassins	artifacts_herbalist_mocassins
+308	Gilded Grant's Iron Greaves	1.960e191	Damage	6	2.700e1349	Gilded Grant's Iron Greaves	artifacts_iron_greaves
+310	Gilded Frostleaf's Iced Leafy Boots	6.259e195	Damage	6	9.320e1358	Gilded Frostleaf's Iced Leafy Boots	artifacts_leafy_boots_iced
+
+63	Treebeast's Autumn Wings	53.928	Damage	7	1.864e235	Treebeast's Autumn Wings	artifacts_leafy_autumn_wings
+73	Bobby's Gun Shell	2.141e6	Damage	7	1.796e276	Bobby's Gun Shell	artifacts_gun_shell
+82	Athena's Leafy Enchanted Wings	6.069e10	Damage	7	1.609e314	Athena's Leafy Enchanted Wings	artifacts_leafy_enchanted_wings
+86	Aphrodite's Filligree Papillion	8.961e14	Monster_Gold	7	8.744e331	Aphrodite's Filligree Papillion	artifacts_filligree_papillion
+99	Shinatobe's Ritual Drum	5.297e19	Damage	7	4.165e387	Shinatobe's Ritual Drum	artifacts_ritual_drum
+118	Gilded Betty Clicker's Fat Bat Backpack	6.527e24	Monster_Gold	7	1.578e469	Gilded Betty Clicker's Fat Bat Backpack	artifacts_fat_bat_backpack
+163	The Gilded Forest Seer's Leafy Wings	1.527e30	Damage	7	2.377e669	The Gilded Forest Seer's Leafy Wings	artifacts_leafy_wings
+166	Gilded Ma Zhu's Anaxios Robe	8.966e33	Damage	7	6.988e682	Gilded Ma Zhu's Anaxios Robe	artifacts_anaxios_robe
+235	Gilded Frostleaf's Iced Leafy Wings	3.925e39	Damage	7	8.529e1002	Gilded Frostleaf's Iced Leafy Wings	artifacts_leafy_wings_iced
+245	Gilded Atlas' Astral Drum	3.758e44	Damage	7	1.054e1051	Gilded Atlas' Astral Drum	artifacts_astral_drum
+260	Gilded Terra's Insidious Drum	3.801e49	Damage	7	5.856e1118	Gilded Terra's Insidious Drum	artifacts_insidious_drum
+266	Gilded Phthalo's Banana Leaf Wing	1.354e54	Damage	7	5.755e1147	Gilded Phthalo's Banana Leaf Wing	artifacts_banana_leaf_wing
+278	Gilded Astraea's Spiritual Drum	2.833e59	Damage	7	8.465e1203	Gilded Astraea's Spiritual Drum	artifacts_spiritual_drum
